@@ -1,0 +1,32 @@
+sequenceDiagram
+  actor U as User
+  participant CK as Checkout.jsx
+  participant BE as POST /api/orders
+  participant OO as order_ops.py
+  participant DB as SQLite
+  participant ML as mailer.py
+  U->>CK: pick address, email, payment method, review
+  opt new address
+    CK->>BE: POST /addresses (saved to the address book)
+  end
+  CK->>BE: items (id and qty), address, method, couponCode, email
+  BE->>OO: expire_stale_orders() frees abandoned unpaid orders
+  BE->>BE: re-validate the coupon with the same rules as the offers list
+  BE->>BE: pre-check stock for a friendly message
+  BE->>BE: calc_totals using SERVER prices
+  BE->>OO: reserve_stock(): UPDATE ... WHERE stock >= qty (atomic)
+  alt not enough stock
+    OO-->>BE: OutOfStock
+    BE->>DB: ROLLBACK, no half-created order
+    BE-->>CK: 409 sold out
+  else stock reserved
+    BE->>DB: COMMIT order and items
+    alt cash on delivery
+      BE->>ML: confirmation email as a background task
+      BE-->>CK: 201 order (payment_status cod)
+      CK->>CK: clear cart, open the order page
+    else online UPI or card
+      BE-->>CK: 201 order (payment_status pending, no email yet)
+      Note over CK: Continue with the payment flow
+    end
+  end

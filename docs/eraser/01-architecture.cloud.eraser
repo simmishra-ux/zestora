@@ -1,0 +1,45 @@
+title Zestora architecture
+
+// ---- the browser side ----
+User [icon: user]
+
+Frontend React app [icon: react, color: blue] {
+  Pages and components [icon: layout]
+  Context Auth Cart Wishlist [icon: layers]
+  Hooks useAsync [icon: code]
+  Services api.js [icon: send]
+  localStorage token and cart [icon: database]
+}
+
+Vite dev server 4200 [icon: zap, color: purple]
+
+// ---- the server side ----
+Backend FastAPI 8000 [icon: python, color: green] {
+  Routers [icon: server]
+  Security bcrypt and JWT [icon: lock]
+  Business rules [icon: book-open]
+  ORM models [icon: table]
+  Mailer [icon: mail]
+}
+
+SQLite zestora db [icon: database, color: orange]
+Dev inbox outbox eml [icon: inbox]
+Gmail SMTP [icon: gmail]
+
+// ---- connections ----
+User > Pages and components: clicks and typing
+Pages and components > Context Auth Cart Wishlist
+Pages and components > Hooks useAsync
+Hooks useAsync > Services api.js
+Context Auth Cart Wishlist > Services api.js
+Context Auth Cart Wishlist > localStorage token and cart: persists
+Services api.js > Vite dev server 4200: fetch /api
+Vite dev server 4200 > Routers: proxy to 8000
+Routers > Security bcrypt and JWT
+Routers > Business rules
+Business rules > ORM models
+Routers > ORM models
+ORM models > SQLite zestora db: SQL
+Routers > Mailer
+Mailer > Dev inbox outbox eml: no SMTP password
+Mailer > Gmail SMTP: SMTP configured

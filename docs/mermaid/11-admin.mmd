@@ -1,0 +1,21 @@
+sequenceDiagram
+  actor A as Admin
+  participant UI as AdminOrders.jsx
+  participant G as require_admin
+  participant BE as routers/admin.py
+  participant DB as SQLite
+  A->>UI: pick a new status
+  UI->>G: POST /admin/orders/ID/status
+  G->>G: JWT valid? user.is_admin (ADMIN_EMAILS)
+  alt not an admin
+    G-->>UI: 403
+  else admin
+    G->>BE: continue
+    alt new status is cancelled
+      BE->>DB: cancel_row(): cancelled, stock restored, refund if paid
+    else any other status
+      BE->>BE: unpaid order? answer 409
+      BE->>DB: INSERT order_event (the latest event wins)
+    end
+    BE-->>UI: updated order
+  end

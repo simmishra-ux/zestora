@@ -1,0 +1,6777 @@
+[
+ {
+  "id": "p101",
+  "title": "iPhone 5s",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 16599,
+  "mrp": 19080,
+  "discount": 13,
+  "rating": 3.7,
+  "reviews": 4840,
+  "stock": 25,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Smartphones",
+   "SKU": "SMA-APP-IPH-121",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p101/thumb.webp",
+  "images": [
+   "/products/p101/1.webp",
+   "/products/p101/2.webp",
+   "/products/p101/3.webp"
+  ],
+  "addedOrder": 101
+ },
+ {
+  "id": "p102",
+  "title": "iPhone 6",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 24899,
+  "mrp": 26770,
+  "discount": 7,
+  "rating": 4.0,
+  "reviews": 1293,
+  "stock": 60,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Smartphones",
+   "SKU": "SMA-APP-IPH-122",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p102/thumb.webp",
+  "images": [
+   "/products/p102/1.webp",
+   "/products/p102/2.webp",
+   "/products/p102/3.webp"
+  ],
+  "addedOrder": 102
+ },
+ {
+  "id": "p103",
+  "title": "iPhone 13 Pro",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 91299,
+  "mrp": 100330,
+  "discount": 9,
+  "rating": 4.4,
+  "reviews": 5931,
+  "stock": 56,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Smartphones",
+   "SKU": "SMA-APP-IPH-123",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p103/thumb.webp",
+  "images": [
+   "/products/p103/1.webp",
+   "/products/p103/2.webp",
+   "/products/p103/3.webp"
+  ],
+  "addedOrder": 103
+ },
+ {
+  "id": "p104",
+  "title": "iPhone X",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 74699,
+  "mrp": 93370,
+  "discount": 20,
+  "rating": 3.5,
+  "reviews": 240,
+  "stock": 37,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 3-5 business days",
+   "7 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Smartphones",
+   "SKU": "SMA-APP-IPH-124",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p104/thumb.webp",
+  "images": [
+   "/products/p104/1.webp",
+   "/products/p104/2.webp",
+   "/products/p104/3.webp"
+  ],
+  "addedOrder": 104
+ },
+ {
+  "id": "p105",
+  "title": "Oppo A57",
+  "brand": "Oppo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 20699,
+  "mrp": 21120,
+  "discount": 2,
+  "rating": 4.3,
+  "reviews": 4924,
+  "stock": 19,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 3-5 business days",
+   "90 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Oppo",
+   "Category": "Smartphones",
+   "SKU": "SMA-OPP-OPP-125",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p105/thumb.webp",
+  "images": [
+   "/products/p105/1.webp",
+   "/products/p105/2.webp",
+   "/products/p105/3.webp"
+  ],
+  "addedOrder": 105
+ },
+ {
+  "id": "p106",
+  "title": "Oppo F19 Pro Plus",
+  "brand": "Oppo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 33199,
+  "mrp": 40990,
+  "discount": 19,
+  "rating": 4.1,
+  "reviews": 5901,
+  "stock": 78,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 week",
+   "90 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Oppo",
+   "Category": "Smartphones",
+   "SKU": "SMA-OPP-OPP-126",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p106/thumb.webp",
+  "images": [
+   "/products/p106/1.webp",
+   "/products/p106/2.webp",
+   "/products/p106/3.webp"
+  ],
+  "addedOrder": 106
+ },
+ {
+  "id": "p107",
+  "title": "Oppo K1",
+  "brand": "Oppo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 24899,
+  "mrp": 30360,
+  "discount": 18,
+  "rating": 4.5,
+  "reviews": 2099,
+  "stock": 55,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Oppo",
+   "Category": "Smartphones",
+   "SKU": "SMA-OPP-OPP-127",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p107/thumb.webp",
+  "images": [
+   "/products/p107/1.webp",
+   "/products/p107/2.webp",
+   "/products/p107/3.webp",
+   "/products/p107/4.webp"
+  ],
+  "addedOrder": 107
+ },
+ {
+  "id": "p108",
+  "title": "Realme C35",
+  "brand": "Realme",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 12399,
+  "mrp": 14590,
+  "discount": 15,
+  "rating": 4.5,
+  "reviews": 1149,
+  "stock": 48,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+  "highlights": [
+   "3 year warranty",
+   "Ships overnight",
+   "90 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Realme",
+   "Category": "Smartphones",
+   "SKU": "SMA-REA-REA-128",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p108/thumb.webp",
+  "images": [
+   "/products/p108/1.webp",
+   "/products/p108/2.webp",
+   "/products/p108/3.webp"
+  ],
+  "addedOrder": 108
+ },
+ {
+  "id": "p109",
+  "title": "Realme X",
+  "brand": "Realme",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 24899,
+  "mrp": 26770,
+  "discount": 7,
+  "rating": 4.2,
+  "reviews": 2370,
+  "stock": 12,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 3-5 business days",
+   "No return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Realme",
+   "Category": "Smartphones",
+   "SKU": "SMA-REA-REA-129",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p109/thumb.webp",
+  "images": [
+   "/products/p109/1.webp",
+   "/products/p109/2.webp",
+   "/products/p109/3.webp"
+  ],
+  "addedOrder": 109
+ },
+ {
+  "id": "p110",
+  "title": "Realme XT",
+  "brand": "Realme",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 28999,
+  "mrp": 32950,
+  "discount": 12,
+  "rating": 4.7,
+  "reviews": 3258,
+  "stock": 80,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Realme",
+   "Category": "Smartphones",
+   "SKU": "SMA-REA-REA-130",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p110/thumb.webp",
+  "images": [
+   "/products/p110/1.webp",
+   "/products/p110/2.webp",
+   "/products/p110/3.webp"
+  ],
+  "addedOrder": 110
+ },
+ {
+  "id": "p111",
+  "title": "Samsung Galaxy S7",
+  "brand": "Samsung",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 24899,
+  "mrp": 31120,
+  "discount": 20,
+  "rating": 3.9,
+  "reviews": 1822,
+  "stock": 67,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 3-5 business days",
+   "No return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Samsung",
+   "Category": "Smartphones",
+   "SKU": "SMA-SAM-SAM-131",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p111/thumb.webp",
+  "images": [
+   "/products/p111/1.webp",
+   "/products/p111/2.webp",
+   "/products/p111/3.webp"
+  ],
+  "addedOrder": 111
+ },
+ {
+  "id": "p112",
+  "title": "Samsung Galaxy S8",
+  "brand": "Samsung",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 41499,
+  "mrp": 51230,
+  "discount": 19,
+  "rating": 4.6,
+  "reviews": 4022,
+  "stock": 0,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Samsung",
+   "Category": "Smartphones",
+   "SKU": "SMA-SAM-SAM-132",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "Out of stock"
+  },
+  "image": "/products/p112/thumb.webp",
+  "images": [
+   "/products/p112/1.webp",
+   "/products/p112/2.webp",
+   "/products/p112/3.webp"
+  ],
+  "addedOrder": 112
+ },
+ {
+  "id": "p113",
+  "title": "Samsung Galaxy S10",
+  "brand": "Samsung",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 58099,
+  "mrp": 61810,
+  "discount": 6,
+  "rating": 3.8,
+  "reviews": 330,
+  "stock": 19,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+  "highlights": [
+   "No warranty",
+   "Ships in 2 weeks",
+   "30 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Samsung",
+   "Category": "Smartphones",
+   "SKU": "SMA-SAM-SAM-133",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p113/thumb.webp",
+  "images": [
+   "/products/p113/1.webp",
+   "/products/p113/2.webp",
+   "/products/p113/3.webp"
+  ],
+  "addedOrder": 113
+ },
+ {
+  "id": "p114",
+  "title": "Vivo S1",
+  "brand": "Vivo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 20699,
+  "mrp": 23000,
+  "discount": 10,
+  "rating": 4.1,
+  "reviews": 2053,
+  "stock": 50,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 3-5 business days",
+   "7 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Vivo",
+   "Category": "Smartphones",
+   "SKU": "SMA-VIV-VIV-134",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p114/thumb.webp",
+  "images": [
+   "/products/p114/1.webp",
+   "/products/p114/2.webp",
+   "/products/p114/3.webp"
+  ],
+  "addedOrder": 114
+ },
+ {
+  "id": "p115",
+  "title": "Vivo V9",
+  "brand": "Vivo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 24899,
+  "mrp": 30360,
+  "discount": 18,
+  "rating": 4.1,
+  "reviews": 2400,
+  "stock": 82,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Vivo",
+   "Category": "Smartphones",
+   "SKU": "SMA-VIV-VIV-135",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p115/thumb.webp",
+  "images": [
+   "/products/p115/1.webp",
+   "/products/p115/2.webp",
+   "/products/p115/3.webp"
+  ],
+  "addedOrder": 115
+ },
+ {
+  "id": "p116",
+  "title": "Vivo X21",
+  "brand": "Vivo",
+  "category": "electronics",
+  "subcategory": "smartphones",
+  "price": 41499,
+  "mrp": 50000,
+  "discount": 17,
+  "rating": 4.5,
+  "reviews": 6187,
+  "stock": 7,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Smartphones"
+  ],
+  "specs": {
+   "Brand": "Vivo",
+   "Category": "Smartphones",
+   "SKU": "SMA-VIV-VIV-136",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p116/thumb.webp",
+  "images": [
+   "/products/p116/1.webp",
+   "/products/p116/2.webp",
+   "/products/p116/3.webp"
+  ],
+  "addedOrder": 116
+ },
+ {
+  "id": "p117",
+  "title": "Apple MacBook Pro 14 Inch Space Grey",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "laptops",
+  "price": 165999,
+  "mrp": 174740,
+  "discount": 5,
+  "rating": 4.1,
+  "reviews": 2046,
+  "stock": 24,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "90 days return policy",
+   "Category: Laptops"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Laptops",
+   "SKU": "LAP-APP-APP-078",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p117/thumb.webp",
+  "images": [
+   "/products/p117/1.webp",
+   "/products/p117/2.webp",
+   "/products/p117/3.webp"
+  ],
+  "addedOrder": 117
+ },
+ {
+  "id": "p118",
+  "title": "Asus Zenbook Pro Dual Screen Laptop",
+  "brand": "Asus",
+  "category": "electronics",
+  "subcategory": "laptops",
+  "price": 149399,
+  "mrp": 167860,
+  "discount": 11,
+  "rating": 4.3,
+  "reviews": 5904,
+  "stock": 45,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 month",
+   "7 days return policy",
+   "Category: Laptops"
+  ],
+  "specs": {
+   "Brand": "Asus",
+   "Category": "Laptops",
+   "SKU": "LAP-ASU-ASU-079",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p118/thumb.webp",
+  "images": [
+   "/products/p118/1.webp",
+   "/products/p118/2.webp",
+   "/products/p118/3.webp"
+  ],
+  "addedOrder": 118
+ },
+ {
+  "id": "p119",
+  "title": "Huawei Matebook X Pro",
+  "brand": "Huawei",
+  "category": "electronics",
+  "subcategory": "laptops",
+  "price": 116199,
+  "mrp": 127690,
+  "discount": 9,
+  "rating": 4.9,
+  "reviews": 2422,
+  "stock": 75,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+  "highlights": [
+   "No warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Laptops"
+  ],
+  "specs": {
+   "Brand": "Huawei",
+   "Category": "Laptops",
+   "SKU": "LAP-HUA-HUA-080",
+   "Warranty": "No warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p119/thumb.webp",
+  "images": [
+   "/products/p119/1.webp",
+   "/products/p119/2.webp",
+   "/products/p119/3.webp"
+  ],
+  "addedOrder": 119
+ },
+ {
+  "id": "p120",
+  "title": "Lenovo Yoga 920",
+  "brand": "Lenovo",
+  "category": "electronics",
+  "subcategory": "laptops",
+  "price": 91299,
+  "mrp": 98170,
+  "discount": 7,
+  "rating": 3.7,
+  "reviews": 4298,
+  "stock": 40,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Laptops"
+  ],
+  "specs": {
+   "Brand": "Lenovo",
+   "Category": "Laptops",
+   "SKU": "LAP-LEN-LEN-081",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p120/thumb.webp",
+  "images": [
+   "/products/p120/1.webp",
+   "/products/p120/2.webp",
+   "/products/p120/3.webp"
+  ],
+  "addedOrder": 120
+ },
+ {
+  "id": "p121",
+  "title": "New DELL XPS 13 9300 Laptop",
+  "brand": "Dell",
+  "category": "electronics",
+  "subcategory": "laptops",
+  "price": 124499,
+  "mrp": 141480,
+  "discount": 12,
+  "rating": 3.6,
+  "reviews": 795,
+  "stock": 74,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 2 weeks",
+   "60 days return policy",
+   "Category: Laptops"
+  ],
+  "specs": {
+   "Brand": "Dell",
+   "Category": "Laptops",
+   "SKU": "LAP-DEL-DEL-082",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p121/thumb.webp",
+  "images": [
+   "/products/p121/1.webp",
+   "/products/p121/2.webp",
+   "/products/p121/3.webp"
+  ],
+  "addedOrder": 121
+ },
+ {
+  "id": "p122",
+  "title": "iPad Mini 2021 Starlight",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "tablets",
+  "price": 41499,
+  "mrp": 43230,
+  "discount": 4,
+  "rating": 3.9,
+  "reviews": 4258,
+  "stock": 47,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1-2 business days",
+   "No return policy",
+   "Category: Tablets"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Tablets",
+   "SKU": "TAB-APP-IPA-159",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p122/thumb.webp",
+  "images": [
+   "/products/p122/1.webp",
+   "/products/p122/2.webp",
+   "/products/p122/3.webp",
+   "/products/p122/4.webp"
+  ],
+  "addedOrder": 122
+ },
+ {
+  "id": "p123",
+  "title": "Samsung Galaxy Tab S8 Plus Grey",
+  "brand": "Samsung",
+  "category": "electronics",
+  "subcategory": "tablets",
+  "price": 49799,
+  "mrp": 57240,
+  "discount": 13,
+  "rating": 4.7,
+  "reviews": 508,
+  "stock": 62,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Tablets"
+  ],
+  "specs": {
+   "Brand": "Samsung",
+   "Category": "Tablets",
+   "SKU": "TAB-SAM-SAM-160",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p123/thumb.webp",
+  "images": [
+   "/products/p123/1.webp",
+   "/products/p123/2.webp",
+   "/products/p123/3.webp",
+   "/products/p123/4.webp"
+  ],
+  "addedOrder": 123
+ },
+ {
+  "id": "p124",
+  "title": "Samsung Galaxy Tab White",
+  "brand": "Samsung",
+  "category": "electronics",
+  "subcategory": "tablets",
+  "price": 28999,
+  "mrp": 35360,
+  "discount": 18,
+  "rating": 4.2,
+  "reviews": 2355,
+  "stock": 92,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+  "highlights": [
+   "3 months warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Tablets"
+  ],
+  "specs": {
+   "Brand": "Samsung",
+   "Category": "Tablets",
+   "SKU": "TAB-SAM-SAM-161",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p124/thumb.webp",
+  "images": [
+   "/products/p124/1.webp",
+   "/products/p124/2.webp",
+   "/products/p124/3.webp",
+   "/products/p124/4.webp"
+  ],
+  "addedOrder": 124
+ },
+ {
+  "id": "p125",
+  "title": "Amazon Echo Plus",
+  "brand": "Amazon",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 8299,
+  "mrp": 9430,
+  "discount": 12,
+  "rating": 4.9,
+  "reviews": 2069,
+  "stock": 61,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Amazon",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-AMA-AMA-099",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p125/thumb.webp",
+  "images": [
+   "/products/p125/1.webp",
+   "/products/p125/2.webp"
+  ],
+  "addedOrder": 125
+ },
+ {
+  "id": "p126",
+  "title": "Apple Airpods",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 10799,
+  "mrp": 12860,
+  "discount": 16,
+  "rating": 4.4,
+  "reviews": 4770,
+  "stock": 67,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "No return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-100",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p126/thumb.webp",
+  "images": [
+   "/products/p126/1.webp",
+   "/products/p126/2.webp",
+   "/products/p126/3.webp"
+  ],
+  "addedOrder": 126
+ },
+ {
+  "id": "p127",
+  "title": "Apple AirPods Max Silver",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 45599,
+  "mrp": 53020,
+  "discount": 14,
+  "rating": 4.0,
+  "reviews": 445,
+  "stock": 59,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+  "highlights": [
+   "No warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-101",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p127/thumb.webp",
+  "images": [
+   "/products/p127/1.webp"
+  ],
+  "addedOrder": 127
+ },
+ {
+  "id": "p128",
+  "title": "Apple Airpower Wireless Charger",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 6639,
+  "mrp": 6920,
+  "discount": 4,
+  "rating": 4.2,
+  "reviews": 2018,
+  "stock": 1,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "90 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-102",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p128/thumb.webp",
+  "images": [
+   "/products/p128/1.webp"
+  ],
+  "addedOrder": 128
+ },
+ {
+  "id": "p129",
+  "title": "Apple HomePod Mini Cosmic Grey",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 8299,
+  "mrp": 10120,
+  "discount": 18,
+  "rating": 4.7,
+  "reviews": 4881,
+  "stock": 27,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-103",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p129/thumb.webp",
+  "images": [
+   "/products/p129/1.webp"
+  ],
+  "addedOrder": 129
+ },
+ {
+  "id": "p130",
+  "title": "Apple iPhone Charger",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 1659,
+  "mrp": 2050,
+  "discount": 19,
+  "rating": 4.4,
+  "reviews": 4338,
+  "stock": 31,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 2 weeks",
+   "90 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-104",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p130/thumb.webp",
+  "images": [
+   "/products/p130/1.webp",
+   "/products/p130/2.webp"
+  ],
+  "addedOrder": 130
+ },
+ {
+  "id": "p131",
+  "title": "Apple MagSafe Battery Pack",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 8299,
+  "mrp": 10000,
+  "discount": 17,
+  "rating": 4.1,
+  "reviews": 2664,
+  "stock": 1,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+  "highlights": [
+   "2 year warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-105",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p131/thumb.webp",
+  "images": [
+   "/products/p131/1.webp",
+   "/products/p131/2.webp"
+  ],
+  "addedOrder": 131
+ },
+ {
+  "id": "p132",
+  "title": "Apple Watch Series 4 Gold",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 28999,
+  "mrp": 32950,
+  "discount": 12,
+  "rating": 3.6,
+  "reviews": 3458,
+  "stock": 33,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 month",
+   "No return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-APP-106",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p132/thumb.webp",
+  "images": [
+   "/products/p132/1.webp",
+   "/products/p132/2.webp",
+   "/products/p132/3.webp"
+  ],
+  "addedOrder": 132
+ },
+ {
+  "id": "p133",
+  "title": "Beats Flex Wireless Earphones",
+  "brand": "Beats",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 4149,
+  "mrp": 4410,
+  "discount": 6,
+  "rating": 4.5,
+  "reviews": 4125,
+  "stock": 50,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Beats",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-BEA-BEA-107",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p133/thumb.webp",
+  "images": [
+   "/products/p133/1.webp"
+  ],
+  "addedOrder": 133
+ },
+ {
+  "id": "p134",
+  "title": "iPhone 12 Silicone Case with MagSafe Plum",
+  "brand": "Apple",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 2489,
+  "mrp": 2890,
+  "discount": 14,
+  "rating": 4.1,
+  "reviews": 4045,
+  "stock": 69,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 3-5 business days",
+   "90 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "Apple",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-APP-IPH-108",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p134/thumb.webp",
+  "images": [
+   "/products/p134/1.webp",
+   "/products/p134/2.webp",
+   "/products/p134/3.webp",
+   "/products/p134/4.webp"
+  ],
+  "addedOrder": 134
+ },
+ {
+  "id": "p135",
+  "title": "Monopod",
+  "brand": "TechGear",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 1659,
+  "mrp": 1820,
+  "discount": 9,
+  "rating": 4.6,
+  "reviews": 5564,
+  "stock": 48,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "TechGear",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-TEC-MON-109",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p135/thumb.webp",
+  "images": [
+   "/products/p135/1.webp",
+   "/products/p135/2.webp"
+  ],
+  "addedOrder": 135
+ },
+ {
+  "id": "p136",
+  "title": "Selfie Lamp with iPhone",
+  "brand": "GadgetMaster",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 1239,
+  "mrp": 1530,
+  "discount": 19,
+  "rating": 4.1,
+  "reviews": 4796,
+  "stock": 58,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 2 weeks",
+   "60 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "GadgetMaster",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-GAD-SEL-110",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p136/thumb.webp",
+  "images": [
+   "/products/p136/1.webp"
+  ],
+  "addedOrder": 136
+ },
+ {
+  "id": "p137",
+  "title": "Selfie Stick Monopod",
+  "brand": "SnapTech",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 1079,
+  "mrp": 1330,
+  "discount": 19,
+  "rating": 4.3,
+  "reviews": 672,
+  "stock": 11,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "SnapTech",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-SNA-SEL-111",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p137/thumb.webp",
+  "images": [
+   "/products/p137/1.webp"
+  ],
+  "addedOrder": 137
+ },
+ {
+  "id": "p138",
+  "title": "TV Studio Camera Pedestal",
+  "brand": "ProVision",
+  "category": "electronics",
+  "subcategory": "mobile-accessories",
+  "price": 41499,
+  "mrp": 45110,
+  "discount": 8,
+  "rating": 3.7,
+  "reviews": 1664,
+  "stock": 15,
+  "emoji": "📱",
+  "hue": 255,
+  "colors": [],
+  "description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Mobile Accessories"
+  ],
+  "specs": {
+   "Brand": "ProVision",
+   "Category": "Mobile Accessories",
+   "SKU": "MOB-PRO-STU-112",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p138/thumb.webp",
+  "images": [
+   "/products/p138/1.webp"
+  ],
+  "addedOrder": 138
+ },
+ {
+  "id": "p139",
+  "title": "Blue & Black Check Shirt",
+  "brand": "Fashion Trends",
+  "category": "fashion",
+  "subcategory": "mens-shirts",
+  "price": 2489,
+  "mrp": 2930,
+  "discount": 15,
+  "rating": 4.1,
+  "reviews": 92,
+  "stock": 38,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "30 days return policy",
+   "Category: Men's Shirts"
+  ],
+  "specs": {
+   "Brand": "Fashion Trends",
+   "Category": "Men's Shirts",
+   "SKU": "MEN-FAS-BLU-083",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p139/thumb.webp",
+  "images": [
+   "/products/p139/1.webp",
+   "/products/p139/2.webp",
+   "/products/p139/3.webp",
+   "/products/p139/4.webp"
+  ],
+  "addedOrder": 139
+ },
+ {
+  "id": "p140",
+  "title": "Gigabyte Aorus Men Tshirt",
+  "brand": "Gigabyte",
+  "category": "fashion",
+  "subcategory": "mens-shirts",
+  "price": 2069,
+  "mrp": 2090,
+  "discount": 1,
+  "rating": 3.9,
+  "reviews": 6400,
+  "stock": 90,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+  "highlights": [
+   "3 year warranty",
+   "Ships overnight",
+   "30 days return policy",
+   "Category: Men's Shirts"
+  ],
+  "specs": {
+   "Brand": "Gigabyte",
+   "Category": "Men's Shirts",
+   "SKU": "MEN-GIG-GIG-084",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p140/thumb.webp",
+  "images": [
+   "/products/p140/1.webp",
+   "/products/p140/2.webp",
+   "/products/p140/3.webp",
+   "/products/p140/4.webp"
+  ],
+  "addedOrder": 140
+ },
+ {
+  "id": "p141",
+  "title": "Man Plaid Shirt",
+  "brand": "Classic Wear",
+  "category": "fashion",
+  "subcategory": "mens-shirts",
+  "price": 2899,
+  "mrp": 3620,
+  "discount": 20,
+  "rating": 4.0,
+  "reviews": 4317,
+  "stock": 82,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Men's Shirts"
+  ],
+  "specs": {
+   "Brand": "Classic Wear",
+   "Category": "Men's Shirts",
+   "SKU": "MEN-CLA-PLA-085",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p141/thumb.webp",
+  "images": [
+   "/products/p141/1.webp",
+   "/products/p141/2.webp",
+   "/products/p141/3.webp",
+   "/products/p141/4.webp"
+  ],
+  "addedOrder": 141
+ },
+ {
+  "id": "p142",
+  "title": "Man Short Sleeve Shirt",
+  "brand": "Casual Comfort",
+  "category": "fashion",
+  "subcategory": "mens-shirts",
+  "price": 1659,
+  "mrp": 1780,
+  "discount": 7,
+  "rating": 3.7,
+  "reviews": 4852,
+  "stock": 2,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "30 days return policy",
+   "Category: Men's Shirts"
+  ],
+  "specs": {
+   "Brand": "Casual Comfort",
+   "Category": "Men's Shirts",
+   "SKU": "MEN-CAS-SHO-086",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p142/thumb.webp",
+  "images": [
+   "/products/p142/1.webp",
+   "/products/p142/2.webp",
+   "/products/p142/3.webp",
+   "/products/p142/4.webp"
+  ],
+  "addedOrder": 142
+ },
+ {
+  "id": "p143",
+  "title": "Men Check Shirt",
+  "brand": "Urban Chic",
+  "category": "fashion",
+  "subcategory": "mens-shirts",
+  "price": 2319,
+  "mrp": 2610,
+  "discount": 11,
+  "rating": 3.6,
+  "reviews": 1586,
+  "stock": 95,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Men's Shirts"
+  ],
+  "specs": {
+   "Brand": "Urban Chic",
+   "Category": "Men's Shirts",
+   "SKU": "MEN-URB-CHE-087",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p143/thumb.webp",
+  "images": [
+   "/products/p143/1.webp",
+   "/products/p143/2.webp",
+   "/products/p143/3.webp",
+   "/products/p143/4.webp"
+  ],
+  "addedOrder": 143
+ },
+ {
+  "id": "p144",
+  "title": "Blue Frock",
+  "brand": "Maple & Co",
+  "category": "fashion",
+  "subcategory": "tops",
+  "price": 2489,
+  "mrp": 2830,
+  "discount": 12,
+  "rating": 4.4,
+  "reviews": 3752,
+  "stock": 52,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 2 weeks",
+   "60 days return policy",
+   "Category: Women's Tops"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Women's Tops",
+   "SKU": "TOP-BRD-BLU-162",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p144/thumb.webp",
+  "images": [
+   "/products/p144/1.webp",
+   "/products/p144/2.webp",
+   "/products/p144/3.webp",
+   "/products/p144/4.webp"
+  ],
+  "addedOrder": 144
+ },
+ {
+  "id": "p145",
+  "title": "Girl Summer Dress",
+  "brand": "Zestora Essentials",
+  "category": "fashion",
+  "subcategory": "tops",
+  "price": 1659,
+  "mrp": 2050,
+  "discount": 19,
+  "rating": 4.8,
+  "reviews": 6285,
+  "stock": 43,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Women's Tops"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Women's Tops",
+   "SKU": "TOP-BRD-GIR-163",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p145/thumb.webp",
+  "images": [
+   "/products/p145/1.webp",
+   "/products/p145/2.webp",
+   "/products/p145/3.webp",
+   "/products/p145/4.webp"
+  ],
+  "addedOrder": 145
+ },
+ {
+  "id": "p146",
+  "title": "Gray Dress",
+  "brand": "Northfield",
+  "category": "fashion",
+  "subcategory": "tops",
+  "price": 2899,
+  "mrp": 3370,
+  "discount": 14,
+  "rating": 3.6,
+  "reviews": 1172,
+  "stock": 55,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Women's Tops"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Women's Tops",
+   "SKU": "TOP-BRD-GRA-164",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p146/thumb.webp",
+  "images": [
+   "/products/p146/1.webp",
+   "/products/p146/2.webp",
+   "/products/p146/3.webp",
+   "/products/p146/4.webp"
+  ],
+  "addedOrder": 146
+ },
+ {
+  "id": "p147",
+  "title": "Short Frock",
+  "brand": "Maple & Co",
+  "category": "fashion",
+  "subcategory": "tops",
+  "price": 2069,
+  "mrp": 2380,
+  "discount": 13,
+  "rating": 3.9,
+  "reviews": 5038,
+  "stock": 22,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Women's Tops"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Women's Tops",
+   "SKU": "TOP-BRD-SHO-165",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p147/thumb.webp",
+  "images": [
+   "/products/p147/1.webp",
+   "/products/p147/2.webp",
+   "/products/p147/3.webp",
+   "/products/p147/4.webp"
+  ],
+  "addedOrder": 147
+ },
+ {
+  "id": "p148",
+  "title": "Tartan Dress",
+  "brand": "Northfield",
+  "category": "fashion",
+  "subcategory": "tops",
+  "price": 3319,
+  "mrp": 3810,
+  "discount": 13,
+  "rating": 4.4,
+  "reviews": 3385,
+  "stock": 73,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Women's Tops"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Women's Tops",
+   "SKU": "TOP-BRD-TAR-166",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p148/thumb.webp",
+  "images": [
+   "/products/p148/1.webp",
+   "/products/p148/2.webp",
+   "/products/p148/3.webp",
+   "/products/p148/4.webp"
+  ],
+  "addedOrder": 148
+ },
+ {
+  "id": "p149",
+  "title": "Black Women's Gown",
+  "brand": "Northfield",
+  "category": "fashion",
+  "subcategory": "womens-dresses",
+  "price": 10799,
+  "mrp": 12000,
+  "discount": 10,
+  "rating": 4.1,
+  "reviews": 662,
+  "stock": 25,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Dresses"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Dresses",
+   "SKU": "WOM-BRD-BLA-177",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p149/thumb.webp",
+  "images": [
+   "/products/p149/1.webp",
+   "/products/p149/2.webp",
+   "/products/p149/3.webp",
+   "/products/p149/4.webp"
+  ],
+  "addedOrder": 149
+ },
+ {
+  "id": "p150",
+  "title": "Corset Leather With Skirt",
+  "brand": "Northfield",
+  "category": "fashion",
+  "subcategory": "womens-dresses",
+  "price": 7469,
+  "mrp": 8890,
+  "discount": 16,
+  "rating": 3.8,
+  "reviews": 2753,
+  "stock": 30,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+  "highlights": [
+   "2 year warranty",
+   "Ships overnight",
+   "30 days return policy",
+   "Category: Dresses"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Dresses",
+   "SKU": "WOM-BRD-COR-178",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p150/thumb.webp",
+  "images": [
+   "/products/p150/1.webp",
+   "/products/p150/2.webp",
+   "/products/p150/3.webp",
+   "/products/p150/4.webp"
+  ],
+  "addedOrder": 150
+ },
+ {
+  "id": "p151",
+  "title": "Corset With Black Skirt",
+  "brand": "Urban Nest",
+  "category": "fashion",
+  "subcategory": "womens-dresses",
+  "price": 6639,
+  "mrp": 7810,
+  "discount": 15,
+  "rating": 4.6,
+  "reviews": 5868,
+  "stock": 33,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Dresses"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Dresses",
+   "SKU": "WOM-BRD-COR-179",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p151/thumb.webp",
+  "images": [
+   "/products/p151/1.webp",
+   "/products/p151/2.webp",
+   "/products/p151/3.webp",
+   "/products/p151/4.webp"
+  ],
+  "addedOrder": 151
+ },
+ {
+  "id": "p152",
+  "title": "Dress Pea",
+  "brand": "Zestora Essentials",
+  "category": "fashion",
+  "subcategory": "womens-dresses",
+  "price": 4149,
+  "mrp": 5060,
+  "discount": 18,
+  "rating": 4.8,
+  "reviews": 6275,
+  "stock": 5,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+  "highlights": [
+   "2 year warranty",
+   "Ships overnight",
+   "90 days return policy",
+   "Category: Dresses"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Dresses",
+   "SKU": "WOM-BRD-DRE-180",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p152/thumb.webp",
+  "images": [
+   "/products/p152/1.webp",
+   "/products/p152/2.webp",
+   "/products/p152/3.webp",
+   "/products/p152/4.webp"
+  ],
+  "addedOrder": 152
+ },
+ {
+  "id": "p153",
+  "title": "Marni Red & Black Suit",
+  "brand": "Urban Nest",
+  "category": "fashion",
+  "subcategory": "womens-dresses",
+  "price": 14899,
+  "mrp": 18390,
+  "discount": 19,
+  "rating": 4.6,
+  "reviews": 4098,
+  "stock": 62,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Marni Red & Black Suit is a sophisticated and fashion-forward suit ensemble. With a combination of red and black tones, it showcases a modern design for a bold and confident look.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 2 weeks",
+   "90 days return policy",
+   "Category: Dresses"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Dresses",
+   "SKU": "WOM-BRD-MAR-181",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p153/thumb.webp",
+  "images": [
+   "/products/p153/1.webp",
+   "/products/p153/2.webp",
+   "/products/p153/3.webp",
+   "/products/p153/4.webp"
+  ],
+  "addedOrder": 153
+ },
+ {
+  "id": "p154",
+  "title": "Nike Air Jordan 1 Red And Black",
+  "brand": "Nike",
+  "category": "fashion",
+  "subcategory": "mens-shoes",
+  "price": 12399,
+  "mrp": 12920,
+  "discount": 4,
+  "rating": 4.8,
+  "reviews": 1744,
+  "stock": 7,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Men's Shoes"
+  ],
+  "specs": {
+   "Brand": "Nike",
+   "Category": "Men's Shoes",
+   "SKU": "MEN-NIK-NIK-088",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p154/thumb.webp",
+  "images": [
+   "/products/p154/1.webp",
+   "/products/p154/2.webp",
+   "/products/p154/3.webp",
+   "/products/p154/4.webp"
+  ],
+  "addedOrder": 154
+ },
+ {
+  "id": "p155",
+  "title": "Nike Baseball Cleats",
+  "brand": "Nike",
+  "category": "fashion",
+  "subcategory": "mens-shoes",
+  "price": 6639,
+  "mrp": 8100,
+  "discount": 18,
+  "rating": 4.3,
+  "reviews": 4838,
+  "stock": 12,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Men's Shoes"
+  ],
+  "specs": {
+   "Brand": "Nike",
+   "Category": "Men's Shoes",
+   "SKU": "MEN-NIK-NIK-089",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p155/thumb.webp",
+  "images": [
+   "/products/p155/1.webp",
+   "/products/p155/2.webp",
+   "/products/p155/3.webp",
+   "/products/p155/4.webp"
+  ],
+  "addedOrder": 155
+ },
+ {
+  "id": "p156",
+  "title": "Puma Future Rider Trainers",
+  "brand": "Puma",
+  "category": "fashion",
+  "subcategory": "mens-shoes",
+  "price": 7469,
+  "mrp": 7780,
+  "discount": 4,
+  "rating": 4.8,
+  "reviews": 4075,
+  "stock": 90,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Men's Shoes"
+  ],
+  "specs": {
+   "Brand": "Puma",
+   "Category": "Men's Shoes",
+   "SKU": "MEN-PUM-PUM-090",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p156/thumb.webp",
+  "images": [
+   "/products/p156/1.webp",
+   "/products/p156/2.webp",
+   "/products/p156/3.webp",
+   "/products/p156/4.webp"
+  ],
+  "addedOrder": 156
+ },
+ {
+  "id": "p157",
+  "title": "Sports Sneakers Off White & Red",
+  "brand": "Off White",
+  "category": "fashion",
+  "subcategory": "mens-shoes",
+  "price": 9959,
+  "mrp": 10480,
+  "discount": 5,
+  "rating": 4.8,
+  "reviews": 5090,
+  "stock": 17,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 3-5 business days",
+   "30 days return policy",
+   "Category: Men's Shoes"
+  ],
+  "specs": {
+   "Brand": "Off White",
+   "Category": "Men's Shoes",
+   "SKU": "MEN-OFF-SPO-091",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p157/thumb.webp",
+  "images": [
+   "/products/p157/1.webp",
+   "/products/p157/2.webp",
+   "/products/p157/3.webp",
+   "/products/p157/4.webp"
+  ],
+  "addedOrder": 157
+ },
+ {
+  "id": "p158",
+  "title": "Sports Sneakers Off White Red",
+  "brand": "Off White",
+  "category": "fashion",
+  "subcategory": "mens-shoes",
+  "price": 9129,
+  "mrp": 9129,
+  "discount": 0,
+  "rating": 4.7,
+  "reviews": 5685,
+  "stock": 62,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+  "highlights": [
+   "3 months warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Men's Shoes"
+  ],
+  "specs": {
+   "Brand": "Off White",
+   "Category": "Men's Shoes",
+   "SKU": "MEN-OFF-SPO-092",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p158/thumb.webp",
+  "images": [
+   "/products/p158/1.webp",
+   "/products/p158/2.webp",
+   "/products/p158/3.webp",
+   "/products/p158/4.webp"
+  ],
+  "addedOrder": 158
+ },
+ {
+  "id": "p159",
+  "title": "Black & Brown Slipper",
+  "brand": "Comfort Trends",
+  "category": "fashion",
+  "subcategory": "womens-shoes",
+  "price": 1659,
+  "mrp": 1710,
+  "discount": 3,
+  "rating": 3.5,
+  "reviews": 3311,
+  "stock": 3,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Women's Shoes"
+  ],
+  "specs": {
+   "Brand": "Comfort Trends",
+   "Category": "Women's Shoes",
+   "SKU": "WOM-COM-BLA-185",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p159/thumb.webp",
+  "images": [
+   "/products/p159/1.webp",
+   "/products/p159/2.webp",
+   "/products/p159/3.webp",
+   "/products/p159/4.webp"
+  ],
+  "addedOrder": 159
+ },
+ {
+  "id": "p160",
+  "title": "Calvin Klein Heel Shoes",
+  "brand": "Calvin Klein",
+  "category": "fashion",
+  "subcategory": "womens-shoes",
+  "price": 6639,
+  "mrp": 6840,
+  "discount": 3,
+  "rating": 4.9,
+  "reviews": 1083,
+  "stock": 93,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "60 days return policy",
+   "Category: Women's Shoes"
+  ],
+  "specs": {
+   "Brand": "Calvin Klein",
+   "Category": "Women's Shoes",
+   "SKU": "WOM-CAL-CAL-186",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p160/thumb.webp",
+  "images": [
+   "/products/p160/1.webp",
+   "/products/p160/2.webp",
+   "/products/p160/3.webp",
+   "/products/p160/4.webp"
+  ],
+  "addedOrder": 160
+ },
+ {
+  "id": "p161",
+  "title": "Golden Shoes Woman",
+  "brand": "Fashion Diva",
+  "category": "fashion",
+  "subcategory": "womens-shoes",
+  "price": 4149,
+  "mrp": 4820,
+  "discount": 14,
+  "rating": 3.9,
+  "reviews": 4325,
+  "stock": 88,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Women's Shoes"
+  ],
+  "specs": {
+   "Brand": "Fashion Diva",
+   "Category": "Women's Shoes",
+   "SKU": "WOM-FAS-GOL-187",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p161/thumb.webp",
+  "images": [
+   "/products/p161/1.webp",
+   "/products/p161/2.webp",
+   "/products/p161/3.webp",
+   "/products/p161/4.webp"
+  ],
+  "addedOrder": 161
+ },
+ {
+  "id": "p162",
+  "title": "Pampi Shoes",
+  "brand": "Pampi",
+  "category": "fashion",
+  "subcategory": "womens-shoes",
+  "price": 2489,
+  "mrp": 2890,
+  "discount": 14,
+  "rating": 3.8,
+  "reviews": 519,
+  "stock": 49,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "Pampi Shoes offer a blend of comfort and style for everyday use. With a versatile design, they are suitable for various casual occasions, providing a trendy and relaxed look.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1 week",
+   "60 days return policy",
+   "Category: Women's Shoes"
+  ],
+  "specs": {
+   "Brand": "Pampi",
+   "Category": "Women's Shoes",
+   "SKU": "WOM-PAM-PAM-188",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p162/thumb.webp",
+  "images": [
+   "/products/p162/1.webp",
+   "/products/p162/2.webp",
+   "/products/p162/3.webp",
+   "/products/p162/4.webp"
+  ],
+  "addedOrder": 162
+ },
+ {
+  "id": "p163",
+  "title": "Red Shoes",
+  "brand": "Fashion Express",
+  "category": "fashion",
+  "subcategory": "womens-shoes",
+  "price": 2899,
+  "mrp": 3540,
+  "discount": 18,
+  "rating": 3.9,
+  "reviews": 4515,
+  "stock": 5,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Red Shoes make a bold statement with their vibrant red color. Whether for a party or a casual outing, these shoes add a pop of color and style to your wardrobe.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Women's Shoes"
+  ],
+  "specs": {
+   "Brand": "Fashion Express",
+   "Category": "Women's Shoes",
+   "SKU": "WOM-FAS-SHO-189",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p163/thumb.webp",
+  "images": [
+   "/products/p163/1.webp",
+   "/products/p163/2.webp",
+   "/products/p163/3.webp",
+   "/products/p163/4.webp"
+  ],
+  "addedOrder": 163
+ },
+ {
+  "id": "p164",
+  "title": "Blue Women's Handbag",
+  "brand": "Fashionista",
+  "category": "fashion",
+  "subcategory": "womens-bags",
+  "price": 4149,
+  "mrp": 5060,
+  "discount": 18,
+  "rating": 3.7,
+  "reviews": 860,
+  "stock": 76,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Bags"
+  ],
+  "specs": {
+   "Brand": "Fashionista",
+   "Category": "Bags",
+   "SKU": "WOM-FAS-BLU-172",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p164/thumb.webp",
+  "images": [
+   "/products/p164/1.webp",
+   "/products/p164/2.webp",
+   "/products/p164/3.webp"
+  ],
+  "addedOrder": 164
+ },
+ {
+  "id": "p165",
+  "title": "Heshe Women's Leather Bag",
+  "brand": "Heshe",
+  "category": "fashion",
+  "subcategory": "womens-bags",
+  "price": 10799,
+  "mrp": 11250,
+  "discount": 4,
+  "rating": 4.9,
+  "reviews": 217,
+  "stock": 99,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+  "highlights": [
+   "5 year warranty",
+   "Ships overnight",
+   "90 days return policy",
+   "Category: Bags"
+  ],
+  "specs": {
+   "Brand": "Heshe",
+   "Category": "Bags",
+   "SKU": "WOM-HES-HES-173",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p165/thumb.webp",
+  "images": [
+   "/products/p165/1.webp",
+   "/products/p165/2.webp",
+   "/products/p165/3.webp"
+  ],
+  "addedOrder": 165
+ },
+ {
+  "id": "p166",
+  "title": "Prada Women Bag",
+  "brand": "Prada",
+  "category": "fashion",
+  "subcategory": "womens-bags",
+  "price": 49799,
+  "mrp": 57910,
+  "discount": 14,
+  "rating": 3.6,
+  "reviews": 1544,
+  "stock": 75,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Bags"
+  ],
+  "specs": {
+   "Brand": "Prada",
+   "Category": "Bags",
+   "SKU": "WOM-PRA-PRA-174",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p166/thumb.webp",
+  "images": [
+   "/products/p166/1.webp",
+   "/products/p166/2.webp",
+   "/products/p166/3.webp"
+  ],
+  "addedOrder": 166
+ },
+ {
+  "id": "p167",
+  "title": "White Faux Leather Backpack",
+  "brand": "Urban Chic",
+  "category": "fashion",
+  "subcategory": "womens-bags",
+  "price": 3319,
+  "mrp": 3900,
+  "discount": 15,
+  "rating": 4.0,
+  "reviews": 1954,
+  "stock": 39,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "90 days return policy",
+   "Category: Bags"
+  ],
+  "specs": {
+   "Brand": "Urban Chic",
+   "Category": "Bags",
+   "SKU": "WOM-URB-WHI-175",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p167/thumb.webp",
+  "images": [
+   "/products/p167/1.webp",
+   "/products/p167/2.webp",
+   "/products/p167/3.webp"
+  ],
+  "addedOrder": 167
+ },
+ {
+  "id": "p168",
+  "title": "Women Handbag Black",
+  "brand": "Elegance Collection",
+  "category": "fashion",
+  "subcategory": "womens-bags",
+  "price": 4979,
+  "mrp": 5660,
+  "discount": 12,
+  "rating": 3.7,
+  "reviews": 6187,
+  "stock": 11,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Women Handbag in Black is a classic and versatile accessory that complements various outfits. With a timeless black color and functional design, it's a must-have in every woman's wardrobe.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 month",
+   "60 days return policy",
+   "Category: Bags"
+  ],
+  "specs": {
+   "Brand": "Elegance Collection",
+   "Category": "Bags",
+   "SKU": "WOM-ELE-WOM-176",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p168/thumb.webp",
+  "images": [
+   "/products/p168/1.webp",
+   "/products/p168/2.webp",
+   "/products/p168/3.webp"
+  ],
+  "addedOrder": 168
+ },
+ {
+  "id": "p169",
+  "title": "Green Crystal Earring",
+  "brand": "Urban Nest",
+  "category": "fashion",
+  "subcategory": "womens-jewellery",
+  "price": 2489,
+  "mrp": 2930,
+  "discount": 15,
+  "rating": 4.3,
+  "reviews": 2173,
+  "stock": 54,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Jewellery"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Jewellery",
+   "SKU": "WOM-BRD-GRE-182",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p169/thumb.webp",
+  "images": [
+   "/products/p169/1.webp",
+   "/products/p169/2.webp",
+   "/products/p169/3.webp"
+  ],
+  "addedOrder": 169
+ },
+ {
+  "id": "p170",
+  "title": "Green Oval Earring",
+  "brand": "Northfield",
+  "category": "fashion",
+  "subcategory": "womens-jewellery",
+  "price": 2069,
+  "mrp": 2430,
+  "discount": 15,
+  "rating": 4.1,
+  "reviews": 2906,
+  "stock": 73,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Jewellery"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Jewellery",
+   "SKU": "WOM-BRD-GRE-183",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p170/thumb.webp",
+  "images": [
+   "/products/p170/1.webp",
+   "/products/p170/2.webp",
+   "/products/p170/3.webp"
+  ],
+  "addedOrder": 170
+ },
+ {
+  "id": "p171",
+  "title": "Tropical Earring",
+  "brand": "Zestora Essentials",
+  "category": "fashion",
+  "subcategory": "womens-jewellery",
+  "price": 1659,
+  "mrp": 1680,
+  "discount": 1,
+  "rating": 4.6,
+  "reviews": 6482,
+  "stock": 1,
+  "emoji": "👗",
+  "hue": 335,
+  "colors": [],
+  "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Jewellery"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Jewellery",
+   "SKU": "WOM-BRD-TRO-184",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p171/thumb.webp",
+  "images": [
+   "/products/p171/1.webp",
+   "/products/p171/2.webp",
+   "/products/p171/3.webp"
+  ],
+  "addedOrder": 171
+ },
+ {
+  "id": "p172",
+  "title": "Brown Leather Belt Watch",
+  "brand": "Fashion Timepieces",
+  "category": "accessories",
+  "subcategory": "mens-watches",
+  "price": 7469,
+  "mrp": 7950,
+  "discount": 6,
+  "rating": 4.4,
+  "reviews": 2967,
+  "stock": 32,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 month",
+   "30 days return policy",
+   "Category: Men's Watches"
+  ],
+  "specs": {
+   "Brand": "Fashion Timepieces",
+   "Category": "Men's Watches",
+   "SKU": "MEN-FAS-BRO-093",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p172/thumb.webp",
+  "images": [
+   "/products/p172/1.webp",
+   "/products/p172/2.webp",
+   "/products/p172/3.webp"
+  ],
+  "addedOrder": 172
+ },
+ {
+  "id": "p173",
+  "title": "Longines Master Collection",
+  "brand": "Longines",
+  "category": "accessories",
+  "subcategory": "mens-watches",
+  "price": 124499,
+  "mrp": 150000,
+  "discount": 17,
+  "rating": 4.3,
+  "reviews": 2735,
+  "stock": 100,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Men's Watches"
+  ],
+  "specs": {
+   "Brand": "Longines",
+   "Category": "Men's Watches",
+   "SKU": "MEN-LON-LON-094",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p173/thumb.webp",
+  "images": [
+   "/products/p173/1.webp",
+   "/products/p173/2.webp",
+   "/products/p173/3.webp"
+  ],
+  "addedOrder": 173
+ },
+ {
+  "id": "p174",
+  "title": "Watch Gold for Women",
+  "brand": "Fashion Gold",
+  "category": "accessories",
+  "subcategory": "womens-watches",
+  "price": 66399,
+  "mrp": 80970,
+  "discount": 18,
+  "rating": 4.5,
+  "reviews": 118,
+  "stock": 0,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Women's Watches"
+  ],
+  "specs": {
+   "Brand": "Fashion Gold",
+   "Category": "Women's Watches",
+   "SKU": "WOM-FAS-WAT-193",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "Out of stock"
+  },
+  "image": "/products/p174/thumb.webp",
+  "images": [
+   "/products/p174/1.webp",
+   "/products/p174/2.webp",
+   "/products/p174/3.webp"
+  ],
+  "addedOrder": 174
+ },
+ {
+  "id": "p175",
+  "title": "Women's Wrist Watch",
+  "brand": "Fashion Co.",
+  "category": "accessories",
+  "subcategory": "womens-watches",
+  "price": 10799,
+  "mrp": 12410,
+  "discount": 13,
+  "rating": 4.1,
+  "reviews": 3716,
+  "stock": 12,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Women's Wrist Watch is a versatile and fashionable timepiece for everyday wear. With a comfortable strap and a simple yet elegant design, it complements various styles.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Women's Watches"
+  ],
+  "specs": {
+   "Brand": "Fashion Co.",
+   "Category": "Women's Watches",
+   "SKU": "WOM-FAS-WOM-194",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p175/thumb.webp",
+  "images": [
+   "/products/p175/1.webp",
+   "/products/p175/2.webp",
+   "/products/p175/3.webp"
+  ],
+  "addedOrder": 175
+ },
+ {
+  "id": "p176",
+  "title": "Black Sun Glasses",
+  "brand": "Fashion Shades",
+  "category": "accessories",
+  "subcategory": "sunglasses",
+  "price": 2489,
+  "mrp": 2620,
+  "discount": 5,
+  "rating": 4.6,
+  "reviews": 323,
+  "stock": 60,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Sunglasses"
+  ],
+  "specs": {
+   "Brand": "Fashion Shades",
+   "Category": "Sunglasses",
+   "SKU": "SUN-FAS-BLA-154",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p176/thumb.webp",
+  "images": [
+   "/products/p176/1.webp",
+   "/products/p176/2.webp",
+   "/products/p176/3.webp"
+  ],
+  "addedOrder": 176
+ },
+ {
+  "id": "p177",
+  "title": "Classic Sun Glasses",
+  "brand": "Fashion Shades",
+  "category": "accessories",
+  "subcategory": "sunglasses",
+  "price": 2069,
+  "mrp": 2180,
+  "discount": 5,
+  "rating": 4.3,
+  "reviews": 1855,
+  "stock": 1,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Sunglasses"
+  ],
+  "specs": {
+   "Brand": "Fashion Shades",
+   "Category": "Sunglasses",
+   "SKU": "SUN-FAS-CLA-155",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p177/thumb.webp",
+  "images": [
+   "/products/p177/1.webp",
+   "/products/p177/2.webp",
+   "/products/p177/3.webp"
+  ],
+  "addedOrder": 177
+ },
+ {
+  "id": "p178",
+  "title": "Green and Black Glasses",
+  "brand": "Fashion Shades",
+  "category": "accessories",
+  "subcategory": "sunglasses",
+  "price": 2899,
+  "mrp": 2930,
+  "discount": 1,
+  "rating": 4.6,
+  "reviews": 1003,
+  "stock": 24,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+  "highlights": [
+   "1 year warranty",
+   "Ships overnight",
+   "30 days return policy",
+   "Category: Sunglasses"
+  ],
+  "specs": {
+   "Brand": "Fashion Shades",
+   "Category": "Sunglasses",
+   "SKU": "SUN-FAS-GRE-156",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p178/thumb.webp",
+  "images": [
+   "/products/p178/1.webp",
+   "/products/p178/2.webp",
+   "/products/p178/3.webp"
+  ],
+  "addedOrder": 178
+ },
+ {
+  "id": "p179",
+  "title": "Party Glasses",
+  "brand": "Fashion Fun",
+  "category": "accessories",
+  "subcategory": "sunglasses",
+  "price": 1659,
+  "mrp": 1860,
+  "discount": 11,
+  "rating": 3.7,
+  "reviews": 1703,
+  "stock": 86,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+  "highlights": [
+   "3 months warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Sunglasses"
+  ],
+  "specs": {
+   "Brand": "Fashion Fun",
+   "Category": "Sunglasses",
+   "SKU": "SUN-FAS-PAR-157",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p179/thumb.webp",
+  "images": [
+   "/products/p179/1.webp",
+   "/products/p179/2.webp",
+   "/products/p179/3.webp"
+  ],
+  "addedOrder": 179
+ },
+ {
+  "id": "p180",
+  "title": "Sunglasses",
+  "brand": "Fashion Shades",
+  "category": "accessories",
+  "subcategory": "sunglasses",
+  "price": 1909,
+  "mrp": 1950,
+  "discount": 2,
+  "rating": 3.8,
+  "reviews": 1261,
+  "stock": 27,
+  "emoji": "⌚",
+  "hue": 200,
+  "colors": [],
+  "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Sunglasses"
+  ],
+  "specs": {
+   "Brand": "Fashion Shades",
+   "Category": "Sunglasses",
+   "SKU": "SUN-FAS-SUN-158",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p180/thumb.webp",
+  "images": [
+   "/products/p180/1.webp",
+   "/products/p180/2.webp",
+   "/products/p180/3.webp"
+  ],
+  "addedOrder": 180
+ },
+ {
+  "id": "p181",
+  "title": "Essence Mascara Lash Princess",
+  "brand": "Essence",
+  "category": "beauty",
+  "subcategory": "beauty",
+  "price": 829,
+  "mrp": 920,
+  "discount": 10,
+  "rating": 3.5,
+  "reviews": 4839,
+  "stock": 99,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 3-5 business days",
+   "No return policy",
+   "Category: Makeup"
+  ],
+  "specs": {
+   "Brand": "Essence",
+   "Category": "Makeup",
+   "SKU": "BEA-ESS-ESS-001",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p181/thumb.webp",
+  "images": [
+   "/products/p181/1.webp"
+  ],
+  "addedOrder": 181
+ },
+ {
+  "id": "p182",
+  "title": "Eyeshadow Palette with Mirror",
+  "brand": "Glamour Beauty",
+  "category": "beauty",
+  "subcategory": "beauty",
+  "price": 1659,
+  "mrp": 2020,
+  "discount": 18,
+  "rating": 3.7,
+  "reviews": 3783,
+  "stock": 34,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Makeup"
+  ],
+  "specs": {
+   "Brand": "Glamour Beauty",
+   "Category": "Makeup",
+   "SKU": "BEA-GLA-EYE-002",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p182/thumb.webp",
+  "images": [
+   "/products/p182/1.webp"
+  ],
+  "addedOrder": 182
+ },
+ {
+  "id": "p183",
+  "title": "Powder Canister",
+  "brand": "Velvet Touch",
+  "category": "beauty",
+  "subcategory": "beauty",
+  "price": 1239,
+  "mrp": 1380,
+  "discount": 10,
+  "rating": 4.7,
+  "reviews": 964,
+  "stock": 89,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1-2 business days",
+   "No return policy",
+   "Category: Makeup"
+  ],
+  "specs": {
+   "Brand": "Velvet Touch",
+   "Category": "Makeup",
+   "SKU": "BEA-VEL-POW-003",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p183/thumb.webp",
+  "images": [
+   "/products/p183/1.webp"
+  ],
+  "addedOrder": 183
+ },
+ {
+  "id": "p184",
+  "title": "Red Lipstick",
+  "brand": "Chic Cosmetics",
+  "category": "beauty",
+  "subcategory": "beauty",
+  "price": 1079,
+  "mrp": 1230,
+  "discount": 12,
+  "rating": 4.5,
+  "reviews": 2340,
+  "stock": 91,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Makeup"
+  ],
+  "specs": {
+   "Brand": "Chic Cosmetics",
+   "Category": "Makeup",
+   "SKU": "BEA-CHI-LIP-004",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p184/thumb.webp",
+  "images": [
+   "/products/p184/1.webp"
+  ],
+  "addedOrder": 184
+ },
+ {
+  "id": "p185",
+  "title": "Red Nail Polish",
+  "brand": "Nail Couture",
+  "category": "beauty",
+  "subcategory": "beauty",
+  "price": 749,
+  "mrp": 840,
+  "discount": 11,
+  "rating": 4.5,
+  "reviews": 1006,
+  "stock": 79,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Makeup"
+  ],
+  "specs": {
+   "Brand": "Nail Couture",
+   "Category": "Makeup",
+   "SKU": "BEA-NAI-NAI-005",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p185/thumb.webp",
+  "images": [
+   "/products/p185/1.webp"
+  ],
+  "addedOrder": 185
+ },
+ {
+  "id": "p186",
+  "title": "Attitude Super Leaves Hand Soap",
+  "brand": "Attitude",
+  "category": "beauty",
+  "subcategory": "skin-care",
+  "price": 749,
+  "mrp": 910,
+  "discount": 18,
+  "rating": 3.9,
+  "reviews": 2884,
+  "stock": 94,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+  "highlights": [
+   "6 months warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Skin Care"
+  ],
+  "specs": {
+   "Brand": "Attitude",
+   "Category": "Skin Care",
+   "SKU": "SKI-ATT-ATT-118",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p186/thumb.webp",
+  "images": [
+   "/products/p186/1.webp",
+   "/products/p186/2.webp",
+   "/products/p186/3.webp"
+  ],
+  "addedOrder": 186
+ },
+ {
+  "id": "p187",
+  "title": "Olay Ultra Moisture Shea Butter Body Wash",
+  "brand": "Olay",
+  "category": "beauty",
+  "subcategory": "skin-care",
+  "price": 1079,
+  "mrp": 1280,
+  "discount": 16,
+  "rating": 4.6,
+  "reviews": 2957,
+  "stock": 34,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Skin Care"
+  ],
+  "specs": {
+   "Brand": "Olay",
+   "Category": "Skin Care",
+   "SKU": "SKI-OLA-OLA-119",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p187/thumb.webp",
+  "images": [
+   "/products/p187/1.webp",
+   "/products/p187/2.webp",
+   "/products/p187/3.webp"
+  ],
+  "addedOrder": 187
+ },
+ {
+  "id": "p188",
+  "title": "Vaseline Men Body and Face Lotion",
+  "brand": "Vaseline",
+  "category": "beauty",
+  "subcategory": "skin-care",
+  "price": 829,
+  "mrp": 950,
+  "discount": 13,
+  "rating": 3.9,
+  "reviews": 5871,
+  "stock": 95,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships overnight",
+   "90 days return policy",
+   "Category: Skin Care"
+  ],
+  "specs": {
+   "Brand": "Vaseline",
+   "Category": "Skin Care",
+   "SKU": "SKI-VAS-VAS-120",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p188/thumb.webp",
+  "images": [
+   "/products/p188/1.webp",
+   "/products/p188/2.webp",
+   "/products/p188/3.webp"
+  ],
+  "addedOrder": 188
+ },
+ {
+  "id": "p189",
+  "title": "Calvin Klein CK One",
+  "brand": "Calvin Klein",
+  "category": "beauty",
+  "subcategory": "fragrances",
+  "price": 4149,
+  "mrp": 4230,
+  "discount": 2,
+  "rating": 4.5,
+  "reviews": 4040,
+  "stock": 29,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+  "highlights": [
+   "1 week warranty",
+   "Ships overnight",
+   "90 days return policy",
+   "Category: Fragrances"
+  ],
+  "specs": {
+   "Brand": "Calvin Klein",
+   "Category": "Fragrances",
+   "SKU": "FRA-CAL-CAL-006",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p189/thumb.webp",
+  "images": [
+   "/products/p189/1.webp",
+   "/products/p189/2.webp",
+   "/products/p189/3.webp"
+  ],
+  "addedOrder": 189
+ },
+ {
+  "id": "p190",
+  "title": "Chanel Coco Noir Eau De",
+  "brand": "Chanel",
+  "category": "beauty",
+  "subcategory": "fragrances",
+  "price": 10799,
+  "mrp": 13010,
+  "discount": 17,
+  "rating": 4.5,
+  "reviews": 691,
+  "stock": 58,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+  "highlights": [
+   "3 year warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Fragrances"
+  ],
+  "specs": {
+   "Brand": "Chanel",
+   "Category": "Fragrances",
+   "SKU": "FRA-CHA-CHA-007",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p190/thumb.webp",
+  "images": [
+   "/products/p190/1.webp",
+   "/products/p190/2.webp",
+   "/products/p190/3.webp"
+  ],
+  "addedOrder": 190
+ },
+ {
+  "id": "p191",
+  "title": "Dior J'adore",
+  "brand": "Dior",
+  "category": "beauty",
+  "subcategory": "fragrances",
+  "price": 7469,
+  "mrp": 8790,
+  "discount": 15,
+  "rating": 4.2,
+  "reviews": 6299,
+  "stock": 98,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Fragrances"
+  ],
+  "specs": {
+   "Brand": "Dior",
+   "Category": "Fragrances",
+   "SKU": "FRA-DIO-DIO-008",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p191/thumb.webp",
+  "images": [
+   "/products/p191/1.webp",
+   "/products/p191/2.webp",
+   "/products/p191/3.webp"
+  ],
+  "addedOrder": 191
+ },
+ {
+  "id": "p192",
+  "title": "Dolce Shine Eau de",
+  "brand": "Dolce & Gabbana",
+  "category": "beauty",
+  "subcategory": "fragrances",
+  "price": 5809,
+  "mrp": 5870,
+  "discount": 1,
+  "rating": 4.3,
+  "reviews": 3138,
+  "stock": 4,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 month",
+   "7 days return policy",
+   "Category: Fragrances"
+  ],
+  "specs": {
+   "Brand": "Dolce & Gabbana",
+   "Category": "Fragrances",
+   "SKU": "FRA-DOL-DOL-009",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p192/thumb.webp",
+  "images": [
+   "/products/p192/1.webp",
+   "/products/p192/2.webp",
+   "/products/p192/3.webp"
+  ],
+  "addedOrder": 192
+ },
+ {
+  "id": "p193",
+  "title": "Gucci Bloom Eau de",
+  "brand": "Gucci",
+  "category": "beauty",
+  "subcategory": "fragrances",
+  "price": 6639,
+  "mrp": 7720,
+  "discount": 14,
+  "rating": 3.6,
+  "reviews": 4682,
+  "stock": 91,
+  "emoji": "💄",
+  "hue": 12,
+  "colors": [],
+  "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+  "highlights": [
+   "6 months warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Fragrances"
+  ],
+  "specs": {
+   "Brand": "Gucci",
+   "Category": "Fragrances",
+   "SKU": "FRA-GUC-GUC-010",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p193/thumb.webp",
+  "images": [
+   "/products/p193/1.webp",
+   "/products/p193/2.webp",
+   "/products/p193/3.webp"
+  ],
+  "addedOrder": 193
+ },
+ {
+  "id": "p194",
+  "title": "Annibale Colombo Bed",
+  "brand": "Annibale Colombo",
+  "category": "home",
+  "subcategory": "furniture",
+  "price": 157699,
+  "mrp": 173300,
+  "discount": 9,
+  "rating": 4.8,
+  "reviews": 5016,
+  "stock": 88,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 month",
+   "No return policy",
+   "Category: Furniture"
+  ],
+  "specs": {
+   "Brand": "Annibale Colombo",
+   "Category": "Furniture",
+   "SKU": "FUR-ANN-ANN-011",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p194/thumb.webp",
+  "images": [
+   "/products/p194/1.webp",
+   "/products/p194/2.webp",
+   "/products/p194/3.webp"
+  ],
+  "addedOrder": 194
+ },
+ {
+  "id": "p195",
+  "title": "Annibale Colombo Sofa",
+  "brand": "Annibale Colombo",
+  "category": "home",
+  "subcategory": "furniture",
+  "price": 207499,
+  "mrp": 241280,
+  "discount": 14,
+  "rating": 4.3,
+  "reviews": 4958,
+  "stock": 60,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Furniture"
+  ],
+  "specs": {
+   "Brand": "Annibale Colombo",
+   "Category": "Furniture",
+   "SKU": "FUR-ANN-ANN-012",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p195/thumb.webp",
+  "images": [
+   "/products/p195/1.webp",
+   "/products/p195/2.webp",
+   "/products/p195/3.webp"
+  ],
+  "addedOrder": 195
+ },
+ {
+  "id": "p196",
+  "title": "Bedside Table African Cherry",
+  "brand": "Furniture Co.",
+  "category": "home",
+  "subcategory": "furniture",
+  "price": 24899,
+  "mrp": 30740,
+  "discount": 19,
+  "rating": 3.7,
+  "reviews": 5399,
+  "stock": 64,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+  "highlights": [
+   "5 year warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Furniture"
+  ],
+  "specs": {
+   "Brand": "Furniture Co.",
+   "Category": "Furniture",
+   "SKU": "FUR-FUR-BED-013",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p196/thumb.webp",
+  "images": [
+   "/products/p196/1.webp",
+   "/products/p196/2.webp",
+   "/products/p196/3.webp"
+  ],
+  "addedOrder": 196
+ },
+ {
+  "id": "p197",
+  "title": "Knoll Saarinen Executive Conference Chair",
+  "brand": "Knoll",
+  "category": "home",
+  "subcategory": "furniture",
+  "price": 41499,
+  "mrp": 42350,
+  "discount": 2,
+  "rating": 4.8,
+  "reviews": 4502,
+  "stock": 26,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+  "highlights": [
+   "2 year warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Furniture"
+  ],
+  "specs": {
+   "Brand": "Knoll",
+   "Category": "Furniture",
+   "SKU": "FUR-KNO-KNO-014",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p197/thumb.webp",
+  "images": [
+   "/products/p197/1.webp",
+   "/products/p197/2.webp",
+   "/products/p197/3.webp"
+  ],
+  "addedOrder": 197
+ },
+ {
+  "id": "p198",
+  "title": "Wooden Bathroom Sink With Mirror",
+  "brand": "Bath Trends",
+  "category": "home",
+  "subcategory": "furniture",
+  "price": 66399,
+  "mrp": 72970,
+  "discount": 9,
+  "rating": 4.1,
+  "reviews": 514,
+  "stock": 5,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Furniture"
+  ],
+  "specs": {
+   "Brand": "Bath Trends",
+   "Category": "Furniture",
+   "SKU": "FUR-BAT-WOO-015",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p198/thumb.webp",
+  "images": [
+   "/products/p198/1.webp",
+   "/products/p198/2.webp",
+   "/products/p198/3.webp"
+  ],
+  "addedOrder": 198
+ },
+ {
+  "id": "p199",
+  "title": "Decoration Swing",
+  "brand": "Zestora Essentials",
+  "category": "home",
+  "subcategory": "home-decoration",
+  "price": 4979,
+  "mrp": 5530,
+  "discount": 10,
+  "rating": 3.9,
+  "reviews": 2900,
+  "stock": 47,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Home Décor"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Home Décor",
+   "SKU": "HOM-BRD-DEC-043",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p199/thumb.webp",
+  "images": [
+   "/products/p199/1.webp",
+   "/products/p199/2.webp",
+   "/products/p199/3.webp"
+  ],
+  "addedOrder": 199
+ },
+ {
+  "id": "p200",
+  "title": "Family Tree Photo Frame",
+  "brand": "Zestora Essentials",
+  "category": "home",
+  "subcategory": "home-decoration",
+  "price": 2489,
+  "mrp": 2930,
+  "discount": 15,
+  "rating": 4.6,
+  "reviews": 453,
+  "stock": 77,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Home Décor"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Home Décor",
+   "SKU": "HOM-BRD-FAM-044",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p200/thumb.webp",
+  "images": [
+   "/products/p200/1.webp"
+  ],
+  "addedOrder": 200
+ },
+ {
+  "id": "p201",
+  "title": "House Showpiece Plant",
+  "brand": "Maple & Co",
+  "category": "home",
+  "subcategory": "home-decoration",
+  "price": 3319,
+  "mrp": 3570,
+  "discount": 7,
+  "rating": 4.7,
+  "reviews": 629,
+  "stock": 28,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Home Décor"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Home Décor",
+   "SKU": "HOM-BRD-HOU-045",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p201/thumb.webp",
+  "images": [
+   "/products/p201/1.webp",
+   "/products/p201/2.webp",
+   "/products/p201/3.webp"
+  ],
+  "addedOrder": 201
+ },
+ {
+  "id": "p202",
+  "title": "Plant Pot",
+  "brand": "Zestora Essentials",
+  "category": "home",
+  "subcategory": "home-decoration",
+  "price": 1239,
+  "mrp": 1330,
+  "discount": 7,
+  "rating": 3.8,
+  "reviews": 6337,
+  "stock": 59,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 3-5 business days",
+   "30 days return policy",
+   "Category: Home Décor"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Home Décor",
+   "SKU": "HOM-BRD-PLA-046",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p202/thumb.webp",
+  "images": [
+   "/products/p202/1.webp",
+   "/products/p202/2.webp",
+   "/products/p202/3.webp",
+   "/products/p202/4.webp"
+  ],
+  "addedOrder": 202
+ },
+ {
+  "id": "p203",
+  "title": "Table Lamp",
+  "brand": "Maple & Co",
+  "category": "home",
+  "subcategory": "home-decoration",
+  "price": 4149,
+  "mrp": 4460,
+  "discount": 7,
+  "rating": 4.1,
+  "reviews": 823,
+  "stock": 9,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Home Décor"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Home Décor",
+   "SKU": "HOM-BRD-TAB-047",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p203/thumb.webp",
+  "images": [
+   "/products/p203/1.webp"
+  ],
+  "addedOrder": 203
+ },
+ {
+  "id": "p204",
+  "title": "Bamboo Spatula",
+  "brand": "Chefmate",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 659,
+  "mrp": 680,
+  "discount": 3,
+  "rating": 3.9,
+  "reviews": 3331,
+  "stock": 37,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Chefmate",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-BAM-048",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p204/thumb.webp",
+  "images": [
+   "/products/p204/1.webp"
+  ],
+  "addedOrder": 204
+ },
+ {
+  "id": "p205",
+  "title": "Black Aluminium Cup",
+  "brand": "Cookwell",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 499,
+  "mrp": 590,
+  "discount": 16,
+  "rating": 4.6,
+  "reviews": 3638,
+  "stock": 75,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+  "highlights": [
+   "1 year warranty",
+   "Ships overnight",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Cookwell",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-BLA-049",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p205/thumb.webp",
+  "images": [
+   "/products/p205/1.webp",
+   "/products/p205/2.webp"
+  ],
+  "addedOrder": 205
+ },
+ {
+  "id": "p206",
+  "title": "Black Whisk",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 829,
+  "mrp": 920,
+  "discount": 10,
+  "rating": 4.3,
+  "reviews": 150,
+  "stock": 73,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1 month",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-BLA-050",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p206/thumb.webp",
+  "images": [
+   "/products/p206/1.webp"
+  ],
+  "addedOrder": 206
+ },
+ {
+  "id": "p207",
+  "title": "Boxed Blender",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 3319,
+  "mrp": 3570,
+  "discount": 7,
+  "rating": 4.7,
+  "reviews": 4224,
+  "stock": 9,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-BOX-051",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p207/thumb.webp",
+  "images": [
+   "/products/p207/1.webp",
+   "/products/p207/2.webp",
+   "/products/p207/3.webp",
+   "/products/p207/4.webp"
+  ],
+  "addedOrder": 207
+ },
+ {
+  "id": "p208",
+  "title": "Carbon Steel Wok",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 2489,
+  "mrp": 2680,
+  "discount": 7,
+  "rating": 4.4,
+  "reviews": 2366,
+  "stock": 40,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-CAR-052",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p208/thumb.webp",
+  "images": [
+   "/products/p208/1.webp"
+  ],
+  "addedOrder": 208
+ },
+ {
+  "id": "p209",
+  "title": "Chopping Board",
+  "brand": "Chefmate",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1079,
+  "mrp": 1170,
+  "discount": 8,
+  "rating": 4.2,
+  "reviews": 4643,
+  "stock": 14,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Chefmate",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-CHO-053",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p209/thumb.webp",
+  "images": [
+   "/products/p209/1.webp"
+  ],
+  "addedOrder": 209
+ },
+ {
+  "id": "p210",
+  "title": "Citrus Squeezer Yellow",
+  "brand": "Cookwell",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 749,
+  "mrp": 850,
+  "discount": 12,
+  "rating": 4.7,
+  "reviews": 3231,
+  "stock": 22,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Cookwell",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-CIT-054",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p210/thumb.webp",
+  "images": [
+   "/products/p210/1.webp"
+  ],
+  "addedOrder": 210
+ },
+ {
+  "id": "p211",
+  "title": "Egg Slicer",
+  "brand": "Cookwell",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 579,
+  "mrp": 680,
+  "discount": 15,
+  "rating": 3.8,
+  "reviews": 4707,
+  "stock": 40,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1 month",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Cookwell",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-SLI-055",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p211/thumb.webp",
+  "images": [
+   "/products/p211/1.webp"
+  ],
+  "addedOrder": 211
+ },
+ {
+  "id": "p212",
+  "title": "Electric Stove",
+  "brand": "Chefmate",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 4149,
+  "mrp": 4820,
+  "discount": 14,
+  "rating": 4.4,
+  "reviews": 3326,
+  "stock": 21,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Chefmate",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-ELE-056",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p212/thumb.webp",
+  "images": [
+   "/products/p212/1.webp",
+   "/products/p212/2.webp",
+   "/products/p212/3.webp",
+   "/products/p212/4.webp"
+  ],
+  "addedOrder": 212
+ },
+ {
+  "id": "p213",
+  "title": "Fine Mesh Strainer",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 829,
+  "mrp": 860,
+  "discount": 4,
+  "rating": 3.8,
+  "reviews": 1326,
+  "stock": 85,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-FIN-057",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p213/thumb.webp",
+  "images": [
+   "/products/p213/1.webp"
+  ],
+  "addedOrder": 213
+ },
+ {
+  "id": "p214",
+  "title": "Fork",
+  "brand": "KitchenPro",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 329,
+  "mrp": 360,
+  "discount": 8,
+  "rating": 3.8,
+  "reviews": 4317,
+  "stock": 7,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1 month",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "KitchenPro",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-FOR-058",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p214/thumb.webp",
+  "images": [
+   "/products/p214/1.webp"
+  ],
+  "addedOrder": 214
+ },
+ {
+  "id": "p215",
+  "title": "Glass",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 409,
+  "mrp": 440,
+  "discount": 8,
+  "rating": 4.4,
+  "reviews": 440,
+  "stock": 46,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+  "highlights": [
+   "3 year warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-GLA-059",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p215/thumb.webp",
+  "images": [
+   "/products/p215/1.webp"
+  ],
+  "addedOrder": 215
+ },
+ {
+  "id": "p216",
+  "title": "Grater Black",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 909,
+  "mrp": 950,
+  "discount": 4,
+  "rating": 3.9,
+  "reviews": 1781,
+  "stock": 84,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1 week",
+   "60 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-GRA-060",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p216/thumb.webp",
+  "images": [
+   "/products/p216/1.webp"
+  ],
+  "addedOrder": 216
+ },
+ {
+  "id": "p217",
+  "title": "Hand Blender",
+  "brand": "KitchenPro",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 2899,
+  "mrp": 3490,
+  "discount": 17,
+  "rating": 4.3,
+  "reviews": 2428,
+  "stock": 84,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "KitchenPro",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-HAN-061",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p217/thumb.webp",
+  "images": [
+   "/products/p217/1.webp"
+  ],
+  "addedOrder": 217
+ },
+ {
+  "id": "p218",
+  "title": "Ice Cube Tray",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 499,
+  "mrp": 500,
+  "discount": 1,
+  "rating": 4.7,
+  "reviews": 2540,
+  "stock": 13,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-CUB-062",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p218/thumb.webp",
+  "images": [
+   "/products/p218/1.webp"
+  ],
+  "addedOrder": 218
+ },
+ {
+  "id": "p219",
+  "title": "Kitchen Sieve",
+  "brand": "Chefmate",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 659,
+  "mrp": 810,
+  "discount": 19,
+  "rating": 3.8,
+  "reviews": 5799,
+  "stock": 68,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+  "highlights": [
+   "1 month warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Chefmate",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-KIT-063",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p219/thumb.webp",
+  "images": [
+   "/products/p219/1.webp"
+  ],
+  "addedOrder": 219
+ },
+ {
+  "id": "p220",
+  "title": "Knife",
+  "brand": "Chefmate",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1239,
+  "mrp": 1530,
+  "discount": 19,
+  "rating": 3.9,
+  "reviews": 6203,
+  "stock": 5,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Chefmate",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-KNI-064",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p220/thumb.webp",
+  "images": [
+   "/products/p220/1.webp"
+  ],
+  "addedOrder": 220
+ },
+ {
+  "id": "p221",
+  "title": "Lunch Box",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1079,
+  "mrp": 1200,
+  "discount": 10,
+  "rating": 4.9,
+  "reviews": 2090,
+  "stock": 94,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-LUN-065",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p221/thumb.webp",
+  "images": [
+   "/products/p221/1.webp"
+  ],
+  "addedOrder": 221
+ },
+ {
+  "id": "p222",
+  "title": "Microwave Oven",
+  "brand": "Cookwell",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 7469,
+  "mrp": 8490,
+  "discount": 12,
+  "rating": 4.8,
+  "reviews": 6460,
+  "stock": 59,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Cookwell",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-MIC-066",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p222/thumb.webp",
+  "images": [
+   "/products/p222/1.webp",
+   "/products/p222/2.webp",
+   "/products/p222/3.webp",
+   "/products/p222/4.webp"
+  ],
+  "addedOrder": 222
+ },
+ {
+  "id": "p223",
+  "title": "Mug Tree Stand",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1329,
+  "mrp": 1460,
+  "discount": 9,
+  "rating": 3.6,
+  "reviews": 2800,
+  "stock": 88,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 month",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-TRE-067",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p223/thumb.webp",
+  "images": [
+   "/products/p223/1.webp",
+   "/products/p223/2.webp"
+  ],
+  "addedOrder": 223
+ },
+ {
+  "id": "p224",
+  "title": "Pan",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 2069,
+  "mrp": 2130,
+  "discount": 3,
+  "rating": 3.7,
+  "reviews": 602,
+  "stock": 90,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 3-5 business days",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-PRD-068",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p224/thumb.webp",
+  "images": [
+   "/products/p224/1.webp"
+  ],
+  "addedOrder": 224
+ },
+ {
+  "id": "p225",
+  "title": "Plate",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 329,
+  "mrp": 350,
+  "discount": 7,
+  "rating": 4.1,
+  "reviews": 5814,
+  "stock": 66,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-PLA-069",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p225/thumb.webp",
+  "images": [
+   "/products/p225/1.webp"
+  ],
+  "addedOrder": 225
+ },
+ {
+  "id": "p226",
+  "title": "Red Tongs",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 579,
+  "mrp": 680,
+  "discount": 15,
+  "rating": 4.6,
+  "reviews": 4045,
+  "stock": 82,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1 week",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-TON-070",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p226/thumb.webp",
+  "images": [
+   "/products/p226/1.webp"
+  ],
+  "addedOrder": 226
+ },
+ {
+  "id": "p227",
+  "title": "Silver Pot With Glass Cap",
+  "brand": "KitchenPro",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 3319,
+  "mrp": 3530,
+  "discount": 6,
+  "rating": 3.9,
+  "reviews": 3349,
+  "stock": 40,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "KitchenPro",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-SIL-071",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p227/thumb.webp",
+  "images": [
+   "/products/p227/1.webp"
+  ],
+  "addedOrder": 227
+ },
+ {
+  "id": "p228",
+  "title": "Slotted Turner",
+  "brand": "KitchenPro",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 749,
+  "mrp": 860,
+  "discount": 13,
+  "rating": 4.0,
+  "reviews": 6268,
+  "stock": 88,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "KitchenPro",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-SLO-072",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p228/thumb.webp",
+  "images": [
+   "/products/p228/1.webp"
+  ],
+  "addedOrder": 228
+ },
+ {
+  "id": "p229",
+  "title": "Spice Rack",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1659,
+  "mrp": 1890,
+  "discount": 12,
+  "rating": 4.8,
+  "reviews": 4411,
+  "stock": 79,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+  "highlights": [
+   "1 week warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-SPI-073",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p229/thumb.webp",
+  "images": [
+   "/products/p229/1.webp"
+  ],
+  "addedOrder": 229
+ },
+ {
+  "id": "p230",
+  "title": "Spoon",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 409,
+  "mrp": 420,
+  "discount": 2,
+  "rating": 4.4,
+  "reviews": 5855,
+  "stock": 59,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-SPO-074",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p230/thumb.webp",
+  "images": [
+   "/products/p230/1.webp"
+  ],
+  "addedOrder": 230
+ },
+ {
+  "id": "p231",
+  "title": "Tray",
+  "brand": "Tasteful",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 1409,
+  "mrp": 1520,
+  "discount": 7,
+  "rating": 4.7,
+  "reviews": 258,
+  "stock": 71,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Tasteful",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-TRA-075",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p231/thumb.webp",
+  "images": [
+   "/products/p231/1.webp"
+  ],
+  "addedOrder": 231
+ },
+ {
+  "id": "p232",
+  "title": "Wooden Rolling Pin",
+  "brand": "KitchenPro",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 999,
+  "mrp": 1110,
+  "discount": 10,
+  "rating": 3.7,
+  "reviews": 2382,
+  "stock": 80,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "30 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "KitchenPro",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-WOO-076",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p232/thumb.webp",
+  "images": [
+   "/products/p232/1.webp"
+  ],
+  "addedOrder": 232
+ },
+ {
+  "id": "p233",
+  "title": "Yellow Peeler",
+  "brand": "Homeware",
+  "category": "home",
+  "subcategory": "kitchen-accessories",
+  "price": 499,
+  "mrp": 570,
+  "discount": 12,
+  "rating": 4.5,
+  "reviews": 5670,
+  "stock": 35,
+  "emoji": "🛋️",
+  "hue": 165,
+  "colors": [],
+  "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 3-5 business days",
+   "90 days return policy",
+   "Category: Kitchen & Dining"
+  ],
+  "specs": {
+   "Brand": "Homeware",
+   "Category": "Kitchen & Dining",
+   "SKU": "KIT-BRD-YEL-077",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p233/thumb.webp",
+  "images": [
+   "/products/p233/1.webp"
+  ],
+  "addedOrder": 233
+ },
+ {
+  "id": "p234",
+  "title": "Apple",
+  "brand": "Daily Harvest",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 169,
+  "mrp": 190,
+  "discount": 13,
+  "rating": 4.4,
+  "reviews": 2880,
+  "stock": 8,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "90 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Daily Harvest",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-APP-016",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p234/thumb.webp",
+  "images": [
+   "/products/p234/1.webp"
+  ],
+  "addedOrder": 234
+ },
+ {
+  "id": "p235",
+  "title": "Beef Steak",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 1079,
+  "mrp": 1200,
+  "discount": 10,
+  "rating": 4.6,
+  "reviews": 2921,
+  "stock": 86,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+  "highlights": [
+   "3 year warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-BEE-017",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p235/thumb.webp",
+  "images": [
+   "/products/p235/1.webp"
+  ],
+  "addedOrder": 235
+ },
+ {
+  "id": "p236",
+  "title": "Cat Food",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 749,
+  "mrp": 830,
+  "discount": 10,
+  "rating": 3.9,
+  "reviews": 5595,
+  "stock": 46,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+  "highlights": [
+   "1 year warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-FOO-018",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p236/thumb.webp",
+  "images": [
+   "/products/p236/1.webp"
+  ],
+  "addedOrder": 236
+ },
+ {
+  "id": "p237",
+  "title": "Chicken Meat",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 829,
+  "mrp": 960,
+  "discount": 14,
+  "rating": 3.9,
+  "reviews": 5179,
+  "stock": 97,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 month",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-CHI-019",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p237/thumb.webp",
+  "images": [
+   "/products/p237/1.webp",
+   "/products/p237/2.webp"
+  ],
+  "addedOrder": 237
+ },
+ {
+  "id": "p238",
+  "title": "Cooking Oil",
+  "brand": "Daily Harvest",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 409,
+  "mrp": 450,
+  "discount": 9,
+  "rating": 4.8,
+  "reviews": 3120,
+  "stock": 10,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Daily Harvest",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-COO-020",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p238/thumb.webp",
+  "images": [
+   "/products/p238/1.webp"
+  ],
+  "addedOrder": 238
+ },
+ {
+  "id": "p239",
+  "title": "Cucumber",
+  "brand": "FreshFarm",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 119,
+  "mrp": 119,
+  "discount": 0,
+  "rating": 4.4,
+  "reviews": 1052,
+  "stock": 84,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1-2 business days",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "FreshFarm",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-CUC-021",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p239/thumb.webp",
+  "images": [
+   "/products/p239/1.webp"
+  ],
+  "addedOrder": 239
+ },
+ {
+  "id": "p240",
+  "title": "Dog Food",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 909,
+  "mrp": 1010,
+  "discount": 10,
+  "rating": 4.6,
+  "reviews": 5129,
+  "stock": 71,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-FOO-022",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p240/thumb.webp",
+  "images": [
+   "/products/p240/1.webp"
+  ],
+  "addedOrder": 240
+ },
+ {
+  "id": "p241",
+  "title": "Eggs",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 249,
+  "mrp": 280,
+  "discount": 11,
+  "rating": 3.5,
+  "reviews": 5717,
+  "stock": 9,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-EGG-023",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p241/thumb.webp",
+  "images": [
+   "/products/p241/1.webp"
+  ],
+  "addedOrder": 241
+ },
+ {
+  "id": "p242",
+  "title": "Fish Steak",
+  "brand": "Green Valley",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 1239,
+  "mrp": 1290,
+  "discount": 4,
+  "rating": 4.2,
+  "reviews": 2827,
+  "stock": 74,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 3-5 business days",
+   "60 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Green Valley",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-FIS-024",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p242/thumb.webp",
+  "images": [
+   "/products/p242/1.webp"
+  ],
+  "addedOrder": 242
+ },
+ {
+  "id": "p243",
+  "title": "Green Bell Pepper",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 109,
+  "mrp": 109,
+  "discount": 0,
+  "rating": 3.9,
+  "reviews": 4386,
+  "stock": 33,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1 week",
+   "30 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-GRE-025",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p243/thumb.webp",
+  "images": [
+   "/products/p243/1.webp"
+  ],
+  "addedOrder": 243
+ },
+ {
+  "id": "p244",
+  "title": "Green Chili Pepper",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 79,
+  "mrp": 80,
+  "discount": 1,
+  "rating": 4.1,
+  "reviews": 6236,
+  "stock": 3,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "30 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-GRE-026",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p244/thumb.webp",
+  "images": [
+   "/products/p244/1.webp"
+  ],
+  "addedOrder": 244
+ },
+ {
+  "id": "p245",
+  "title": "Honey Jar",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 579,
+  "mrp": 670,
+  "discount": 14,
+  "rating": 4.3,
+  "reviews": 1110,
+  "stock": 34,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-HON-027",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p245/thumb.webp",
+  "images": [
+   "/products/p245/1.webp"
+  ],
+  "addedOrder": 245
+ },
+ {
+  "id": "p246",
+  "title": "Ice Cream",
+  "brand": "FreshFarm",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 459,
+  "mrp": 500,
+  "discount": 9,
+  "rating": 4.0,
+  "reviews": 573,
+  "stock": 27,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 2 weeks",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "FreshFarm",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-CRE-028",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p246/thumb.webp",
+  "images": [
+   "/products/p246/1.webp",
+   "/products/p246/2.webp",
+   "/products/p246/3.webp",
+   "/products/p246/4.webp"
+  ],
+  "addedOrder": 246
+ },
+ {
+  "id": "p247",
+  "title": "Juice",
+  "brand": "Green Valley",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 329,
+  "mrp": 370,
+  "discount": 12,
+  "rating": 4.3,
+  "reviews": 3834,
+  "stock": 50,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Green Valley",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-JUI-029",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p247/thumb.webp",
+  "images": [
+   "/products/p247/1.webp"
+  ],
+  "addedOrder": 247
+ },
+ {
+  "id": "p248",
+  "title": "Kiwi",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 209,
+  "mrp": 250,
+  "discount": 15,
+  "rating": 4.9,
+  "reviews": 3487,
+  "stock": 99,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+  "highlights": [
+   "6 months warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-KIW-030",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p248/thumb.webp",
+  "images": [
+   "/products/p248/1.webp"
+  ],
+  "addedOrder": 248
+ },
+ {
+  "id": "p249",
+  "title": "Lemon",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 69,
+  "mrp": 80,
+  "discount": 10,
+  "rating": 4.1,
+  "reviews": 2300,
+  "stock": 31,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1 month",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-LEM-031",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p249/thumb.webp",
+  "images": [
+   "/products/p249/1.webp"
+  ],
+  "addedOrder": 249
+ },
+ {
+  "id": "p250",
+  "title": "Milk",
+  "brand": "FreshFarm",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 289,
+  "mrp": 340,
+  "discount": 14,
+  "rating": 3.6,
+  "reviews": 3254,
+  "stock": 27,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "FreshFarm",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-MIL-032",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p250/thumb.webp",
+  "images": [
+   "/products/p250/1.webp"
+  ],
+  "addedOrder": 250
+ },
+ {
+  "id": "p251",
+  "title": "Mulberry",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 409,
+  "mrp": 470,
+  "discount": 13,
+  "rating": 4.9,
+  "reviews": 3723,
+  "stock": 99,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+  "highlights": [
+   "2 year warranty",
+   "Ships in 1 week",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-MUL-033",
+   "Warranty": "2 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p251/thumb.webp",
+  "images": [
+   "/products/p251/1.webp"
+  ],
+  "addedOrder": 251
+ },
+ {
+  "id": "p252",
+  "title": "Nescafe Coffee",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 659,
+  "mrp": 670,
+  "discount": 2,
+  "rating": 4.8,
+  "reviews": 6444,
+  "stock": 57,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "30 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-NES-034",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p252/thumb.webp",
+  "images": [
+   "/products/p252/1.webp"
+  ],
+  "addedOrder": 252
+ },
+ {
+  "id": "p253",
+  "title": "Potatoes",
+  "brand": "FreshFarm",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 189,
+  "mrp": 200,
+  "discount": 5,
+  "rating": 4.8,
+  "reviews": 4488,
+  "stock": 13,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "90 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "FreshFarm",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-POT-035",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p253/thumb.webp",
+  "images": [
+   "/products/p253/1.webp"
+  ],
+  "addedOrder": 253
+ },
+ {
+  "id": "p254",
+  "title": "Protein Powder",
+  "brand": "Green Valley",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 1659,
+  "mrp": 1800,
+  "discount": 8,
+  "rating": 4.4,
+  "reviews": 3150,
+  "stock": 80,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1 month",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Green Valley",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-PRO-036",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p254/thumb.webp",
+  "images": [
+   "/products/p254/1.webp"
+  ],
+  "addedOrder": 254
+ },
+ {
+  "id": "p255",
+  "title": "Red Onions",
+  "brand": "Green Valley",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 169,
+  "mrp": 190,
+  "discount": 10,
+  "rating": 4.5,
+  "reviews": 533,
+  "stock": 82,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+  "highlights": [
+   "1 month warranty",
+   "Ships in 3-5 business days",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Green Valley",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-ONI-037",
+   "Warranty": "1 month warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p255/thumb.webp",
+  "images": [
+   "/products/p255/1.webp"
+  ],
+  "addedOrder": 255
+ },
+ {
+  "id": "p256",
+  "title": "Rice",
+  "brand": "Daily Harvest",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 499,
+  "mrp": 550,
+  "discount": 9,
+  "rating": 3.9,
+  "reviews": 4084,
+  "stock": 59,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+  "highlights": [
+   "6 months warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Daily Harvest",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-RIC-038",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p256/thumb.webp",
+  "images": [
+   "/products/p256/1.webp"
+  ],
+  "addedOrder": 256
+ },
+ {
+  "id": "p257",
+  "title": "Soft Drinks",
+  "brand": "Pure Pantry",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 169,
+  "mrp": 200,
+  "discount": 17,
+  "rating": 4.8,
+  "reviews": 2677,
+  "stock": 53,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Pure Pantry",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-SOF-039",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p257/thumb.webp",
+  "images": [
+   "/products/p257/1.webp"
+  ],
+  "addedOrder": 257
+ },
+ {
+  "id": "p258",
+  "title": "Strawberry",
+  "brand": "Green Valley",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 329,
+  "mrp": 330,
+  "discount": 1,
+  "rating": 3.8,
+  "reviews": 5434,
+  "stock": 46,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1-2 business days",
+   "No return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Green Valley",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-STR-040",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p258/thumb.webp",
+  "images": [
+   "/products/p258/1.webp"
+  ],
+  "addedOrder": 258
+ },
+ {
+  "id": "p259",
+  "title": "Tissue Paper Box",
+  "brand": "Farmhouse",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 209,
+  "mrp": 240,
+  "discount": 13,
+  "rating": 3.6,
+  "reviews": 404,
+  "stock": 86,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+  "highlights": [
+   "No warranty",
+   "Ships in 1-2 business days",
+   "90 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Farmhouse",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-TIS-041",
+   "Warranty": "No warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p259/thumb.webp",
+  "images": [
+   "/products/p259/1.webp",
+   "/products/p259/2.webp"
+  ],
+  "addedOrder": 259
+ },
+ {
+  "id": "p260",
+  "title": "Water",
+  "brand": "Daily Harvest",
+  "category": "grocery",
+  "subcategory": "groceries",
+  "price": 79,
+  "mrp": 90,
+  "discount": 15,
+  "rating": 4.9,
+  "reviews": 1805,
+  "stock": 53,
+  "emoji": "🛒",
+  "hue": 95,
+  "colors": [],
+  "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 1 month",
+   "7 days return policy",
+   "Category: Fresh & Pantry"
+  ],
+  "specs": {
+   "Brand": "Daily Harvest",
+   "Category": "Fresh & Pantry",
+   "SKU": "GRO-BRD-WAT-042",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p260/thumb.webp",
+  "images": [
+   "/products/p260/1.webp"
+  ],
+  "addedOrder": 260
+ },
+ {
+  "id": "p261",
+  "title": "American Football",
+  "brand": "Maple & Co",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 1659,
+  "mrp": 1750,
+  "discount": 5,
+  "rating": 4.8,
+  "reviews": 3630,
+  "stock": 53,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 month",
+   "90 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-AME-137",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 month",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p261/thumb.webp",
+  "images": [
+   "/products/p261/1.webp"
+  ],
+  "addedOrder": 261
+ },
+ {
+  "id": "p262",
+  "title": "Baseball Ball",
+  "brand": "Urban Nest",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 749,
+  "mrp": 760,
+  "discount": 2,
+  "rating": 3.5,
+  "reviews": 2645,
+  "stock": 100,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+  "highlights": [
+   "6 months warranty",
+   "Ships in 1 week",
+   "30 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-BAS-138",
+   "Warranty": "6 months warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "30 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p262/thumb.webp",
+  "images": [
+   "/products/p262/1.webp"
+  ],
+  "addedOrder": 262
+ },
+ {
+  "id": "p263",
+  "title": "Baseball Glove",
+  "brand": "Zestora Essentials",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 2069,
+  "mrp": 2130,
+  "discount": 3,
+  "rating": 4.3,
+  "reviews": 6159,
+  "stock": 22,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships in 2 weeks",
+   "90 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-BAS-139",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p263/thumb.webp",
+  "images": [
+   "/products/p263/1.webp",
+   "/products/p263/2.webp",
+   "/products/p263/3.webp"
+  ],
+  "addedOrder": 263
+ },
+ {
+  "id": "p264",
+  "title": "Basketball",
+  "brand": "Zestora Essentials",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 1239,
+  "mrp": 1330,
+  "discount": 7,
+  "rating": 4.7,
+  "reviews": 5174,
+  "stock": 75,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1 week",
+   "90 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-BAS-140",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "90 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p264/thumb.webp",
+  "images": [
+   "/products/p264/1.webp"
+  ],
+  "addedOrder": 264
+ },
+ {
+  "id": "p265",
+  "title": "Basketball Rim",
+  "brand": "Zestora Essentials",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 3319,
+  "mrp": 3610,
+  "discount": 8,
+  "rating": 4.7,
+  "reviews": 3293,
+  "stock": 43,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+  "highlights": [
+   "3 months warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-BAS-141",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p265/thumb.webp",
+  "images": [
+   "/products/p265/1.webp"
+  ],
+  "addedOrder": 265
+ },
+ {
+  "id": "p266",
+  "title": "Cricket Ball",
+  "brand": "Northfield",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 1079,
+  "mrp": 1190,
+  "discount": 9,
+  "rating": 4.1,
+  "reviews": 651,
+  "stock": 30,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 3-5 business days",
+   "7 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-CRI-142",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p266/thumb.webp",
+  "images": [
+   "/products/p266/1.webp"
+  ],
+  "addedOrder": 266
+ },
+ {
+  "id": "p267",
+  "title": "Cricket Bat",
+  "brand": "Urban Nest",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 2489,
+  "mrp": 2570,
+  "discount": 3,
+  "rating": 3.9,
+  "reviews": 1699,
+  "stock": 98,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 1-2 business days",
+   "No return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-CRI-143",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p267/thumb.webp",
+  "images": [
+   "/products/p267/1.webp"
+  ],
+  "addedOrder": 267
+ },
+ {
+  "id": "p268",
+  "title": "Cricket Helmet",
+  "brand": "Urban Nest",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 3729,
+  "mrp": 4140,
+  "discount": 10,
+  "rating": 4.7,
+  "reviews": 6267,
+  "stock": 10,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships overnight",
+   "60 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-CRI-144",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p268/thumb.webp",
+  "images": [
+   "/products/p268/1.webp",
+   "/products/p268/2.webp",
+   "/products/p268/3.webp",
+   "/products/p268/4.webp"
+  ],
+  "addedOrder": 268
+ },
+ {
+  "id": "p269",
+  "title": "Cricket Wicket",
+  "brand": "Northfield",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 2489,
+  "mrp": 3000,
+  "discount": 17,
+  "rating": 4.7,
+  "reviews": 406,
+  "stock": 25,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+  "highlights": [
+   "3 months warranty",
+   "Ships overnight",
+   "No return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-CRI-145",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p269/thumb.webp",
+  "images": [
+   "/products/p269/1.webp"
+  ],
+  "addedOrder": 269
+ },
+ {
+  "id": "p270",
+  "title": "Feather Shuttlecock",
+  "brand": "Maple & Co",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 499,
+  "mrp": 510,
+  "discount": 3,
+  "rating": 3.7,
+  "reviews": 1549,
+  "stock": 95,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1-2 business days",
+   "60 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-FEA-146",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1-2 business days",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p270/thumb.webp",
+  "images": [
+   "/products/p270/1.webp"
+  ],
+  "addedOrder": 270
+ },
+ {
+  "id": "p271",
+  "title": "Football",
+  "brand": "Northfield",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 1489,
+  "mrp": 1570,
+  "discount": 5,
+  "rating": 3.9,
+  "reviews": 4041,
+  "stock": 96,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+  "highlights": [
+   "Lifetime warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-FOO-147",
+   "Warranty": "Lifetime warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p271/thumb.webp",
+  "images": [
+   "/products/p271/1.webp"
+  ],
+  "addedOrder": 271
+ },
+ {
+  "id": "p272",
+  "title": "Golf Ball",
+  "brand": "Zestora Essentials",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 829,
+  "mrp": 1000,
+  "discount": 17,
+  "rating": 4.5,
+  "reviews": 3986,
+  "stock": 84,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+  "highlights": [
+   "1 year warranty",
+   "Ships in 3-5 business days",
+   "No return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-GOL-148",
+   "Warranty": "1 year warranty",
+   "Shipping": "Ships in 3-5 business days",
+   "Returns": "No return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p272/thumb.webp",
+  "images": [
+   "/products/p272/1.webp"
+  ],
+  "addedOrder": 272
+ },
+ {
+  "id": "p273",
+  "title": "Iron Golf",
+  "brand": "Urban Nest",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 4149,
+  "mrp": 4460,
+  "discount": 7,
+  "rating": 4.6,
+  "reviews": 1653,
+  "stock": 90,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+  "highlights": [
+   "3 months warranty",
+   "Ships in 2 weeks",
+   "7 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Urban Nest",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-IRO-149",
+   "Warranty": "3 months warranty",
+   "Shipping": "Ships in 2 weeks",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p273/thumb.webp",
+  "images": [
+   "/products/p273/1.webp"
+  ],
+  "addedOrder": 273
+ },
+ {
+  "id": "p274",
+  "title": "Metal Baseball Bat",
+  "brand": "Northfield",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 2489,
+  "mrp": 3110,
+  "discount": 20,
+  "rating": 4.7,
+  "reviews": 1263,
+  "stock": 16,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+  "highlights": [
+   "3 year warranty",
+   "Ships in 1 week",
+   "60 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-MET-150",
+   "Warranty": "3 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "60 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p274/thumb.webp",
+  "images": [
+   "/products/p274/1.webp"
+  ],
+  "addedOrder": 274
+ },
+ {
+  "id": "p275",
+  "title": "Tennis Ball",
+  "brand": "Zestora Essentials",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 579,
+  "mrp": 660,
+  "discount": 12,
+  "rating": 4.4,
+  "reviews": 6303,
+  "stock": 28,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+  "highlights": [
+   "5 year warranty",
+   "Ships in 1 week",
+   "7 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Zestora Essentials",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-TEN-151",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p275/thumb.webp",
+  "images": [
+   "/products/p275/1.webp"
+  ],
+  "addedOrder": 275
+ },
+ {
+  "id": "p276",
+  "title": "Tennis Racket",
+  "brand": "Maple & Co",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 4149,
+  "mrp": 5190,
+  "discount": 20,
+  "rating": 4.4,
+  "reviews": 3135,
+  "stock": 5,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Tennis Racket is an essential piece of equipment used in the sport of tennis. It features a frame with strings and a grip, allowing players to hit the tennis ball.",
+  "highlights": [
+   "5 year warranty",
+   "Ships overnight",
+   "7 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Maple & Co",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-TEN-152",
+   "Warranty": "5 year warranty",
+   "Shipping": "Ships overnight",
+   "Returns": "7 days return policy",
+   "Availability": "In stock"
+  },
+  "image": "/products/p276/thumb.webp",
+  "images": [
+   "/products/p276/1.webp"
+  ],
+  "addedOrder": 276
+ },
+ {
+  "id": "p277",
+  "title": "Volleyball",
+  "brand": "Northfield",
+  "category": "sports",
+  "subcategory": "sports-accessories",
+  "price": 999,
+  "mrp": 1140,
+  "discount": 12,
+  "rating": 4.3,
+  "reviews": 810,
+  "stock": 0,
+  "emoji": "🏋️",
+  "hue": 145,
+  "colors": [],
+  "description": "The Volleyball is a standard ball used in the sport of volleyball. It is designed for passing, setting, and spiking over the net during volleyball matches.",
+  "highlights": [
+   "1 week warranty",
+   "Ships in 1 week",
+   "90 days return policy",
+   "Category: Sports Gear"
+  ],
+  "specs": {
+   "Brand": "Northfield",
+   "Category": "Sports Gear",
+   "SKU": "SPO-BRD-VOL-153",
+   "Warranty": "1 week warranty",
+   "Shipping": "Ships in 1 week",
+   "Returns": "90 days return policy",
+   "Availability": "Out of stock"
+  },
+  "image": "/products/p277/thumb.webp",
+  "images": [
+   "/products/p277/1.webp"
+  ],
+  "addedOrder": 277
+ }
+]

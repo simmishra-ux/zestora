@@ -1,0 +1,22 @@
+sequenceDiagram
+  actor U as User
+  participant PG as Products.jsx
+  participant URL as URL query string
+  participant UA as useAsync hook
+  participant PS as productService.js
+  participant BE as routers/products.py
+  participant DB as SQLite
+  U->>PG: tick a filter or change the sort
+  PG->>URL: setSearchParams (q, category, brand, max, rating, sort)
+  URL-->>PG: re-render with the parsed filters
+  PG->>UA: useAsync(getProducts, deps = URL)
+  UA->>PS: call (loading = true)
+  PS->>BE: GET /api/products?category=..&sort=..
+  BE->>BE: build WHERE conditions (parameterised, injection-safe)
+  BE->>DB: SELECT ... ORDER BY ... LIMIT
+  DB-->>BE: rows
+  BE-->>PS: ProductOut list as camelCase JSON
+  PS-->>UA: data
+  UA-->>PG: data, loading = false
+  PG-->>U: product grid renders
+  Note over UA: If the filters change mid-request, the old response is ignored

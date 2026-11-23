@@ -1,0 +1,113 @@
+users [icon: user, color: blue] {
+  id string pk
+  name string
+  email string
+  phone string
+  password_hash string
+  created_at datetime
+}
+
+address_book [icon: map-pin, color: blue] {
+  id string pk
+  user_id string
+  label string
+  name string
+  phone string
+  line1 string
+  city string
+  state string
+  pincode string
+  is_default boolean
+}
+
+products [icon: package, color: green] {
+  id string pk
+  title string
+  brand string
+  category string
+  price int
+  mrp int
+  discount int
+  rating float
+  reviews int
+  stock int
+  added_order int
+}
+
+orders [icon: shopping-cart, color: purple] {
+  id string pk
+  user_id string
+  payment_method string
+  payment_status string
+  paid_at datetime
+  payment_id string
+  contact_email string
+  coupon_code string
+  cancelled boolean
+  address json
+  subtotal int
+  coupon_discount int
+  delivery int
+  total int
+  created_at datetime
+}
+
+order_items [icon: list, color: purple] {
+  id int pk
+  order_id string
+  product_id string
+  title string
+  price int
+  qty int
+}
+
+order_events [icon: activity, color: purple] {
+  id int pk
+  order_id string
+  status string
+  created_at datetime
+}
+
+payment_intents [icon: credit-card, color: orange] {
+  id string pk
+  client_secret string
+  order_id string
+  amount int
+  status string
+}
+
+reviews [icon: star, color: green] {
+  id string pk
+  product_id string
+  user_id string
+  rating int
+  title string
+  body string
+}
+
+coupons [icon: tag, color: red] {
+  code string pk
+  title string
+  kind string
+  value int
+  max_discount int
+  min_order int
+  payment_methods json
+  first_order_only boolean
+  per_user_limit int
+  active boolean
+  expires_at datetime
+}
+
+// users have many addresses, orders and reviews
+users.id < address_book.user_id
+users.id < orders.user_id
+users.id < reviews.user_id
+// an order has many items, status events and payment attempts
+orders.id < order_items.order_id
+orders.id < order_events.order_id
+orders.id < payment_intents.order_id
+// a product has many reviews
+products.id < reviews.product_id
+// order_items.product_id and orders.coupon_code are plain copies on purpose (no foreign key):
+// history must survive when a product or coupon is later edited or deleted.

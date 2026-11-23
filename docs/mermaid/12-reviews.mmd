@@ -1,0 +1,16 @@
+sequenceDiagram
+  actor U as User
+  participant R as Reviews.jsx
+  participant BE as PUT /products/ID/reviews/me
+  participant DB as SQLite
+  U->>R: stars and text
+  R->>BE: PUT review
+  BE->>DB: has a paid or COD, non-cancelled order with this product?
+  alt no
+    BE-->>R: 403 only buyers can review
+  else yes
+    BE->>DB: upsert review (one per user per product)
+    BE->>DB: rating = (rating * n + new) / (n + 1), reviews = n + 1
+    BE-->>R: updated review list
+    R->>R: parent refetches the product (new average)
+  end

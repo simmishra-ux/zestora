@@ -1,0 +1,22 @@
+sequenceDiagram
+  actor U as User
+  participant CC as CartContext
+  participant LS as localStorage
+  participant PS as productService.js
+  participant BE as POST /api/coupons/offers
+  participant R as coupons.py rules
+  U->>CC: add product to cart
+  CC->>LS: save id, qty, colour (never prices)
+  CC->>PS: getProductsByIds(ids)
+  PS-->>CC: fresh products with current prices
+  CC->>BE: items (id and qty only) and payment method
+  BE->>BE: subtotal from DB prices
+  loop every live coupon
+    BE->>R: ineligible_reason(): min order, payment method, first order, per-user limit
+    R-->>BE: reason, or OK
+    BE->>R: discount_for(): percent, cap, or flat
+  end
+  BE-->>CC: offers sorted, best saving first
+  U->>CC: apply a coupon
+  CC->>CC: totals = calcTotals(lines, discount)
+  Note over CC: Changing the cart, payment method or user re-runs this. A coupon that stops being valid is dropped with a message.

@@ -1,0 +1,53 @@
+title Placing an order and paying online
+
+User [icon: user]
+Checkout page [icon: layout]
+Orders API [icon: server]
+Order ops [icon: shield]
+SQLite [icon: database]
+Payment modal [icon: credit-card]
+Mock gateway [icon: zap]
+Webhook handler [icon: webhook]
+Mailer [icon: mail]
+
+// ---- 1. create the order (stock is reserved atomically) ----
+User > Checkout page: choose address, email, payment method
+Checkout page > Orders API: POST /orders items id and qty, coupon, email
+Orders API > Order ops: expire stale unpaid orders
+Orders API > Orders API: re-validate coupon and compute totals from server prices
+Orders API > Order ops: reserve stock UPDATE WHERE stock >= qty
+
+alt [not enough stock] {
+  Order ops --> Orders API: out of stock
+  Orders API > SQLite: ROLLBACK
+  Orders API --> Checkout page: 409 sold out
+}
+else [stock reserved] {
+  Orders API > SQLite: COMMIT order and items
+  Orders API --> Checkout page: 201 order with payment_status pending
+}
+
+// ---- 2. pay: the browser is NOT trusted, the signed webhook is ----
+Checkout page > Payment modal: open the payment window
+Payment modal > Orders API: POST /payments/intents
+Orders API > SQLite: INSERT payment_intent amount from the order
+Orders API --> Payment modal: intentId and clientSecret
+User > Payment modal: card or UPI details
+Payment modal > Mock gateway: confirm payment
+Mock gateway > Mock gateway: judge the payment
+Mock gateway > Webhook handler: signed event HMAC SHA256
+
+alt [payment succeeded] {
+  Webhook handler > SQLite: mark order paid and set paid_at
+  Webhook handler > Mailer: send confirmation email
+}
+else [payment failed] {
+  Webhook handler > SQLite: mark order failed so the user can retry
+}
+
+Mock gateway --> Payment modal: result message
+loop [poll until paid] {
+  Payment modal > Orders API: GET /orders/id
+  Orders API --> Payment modal: paymentStatus
+}
+Payment modal --> User: success and open the order page

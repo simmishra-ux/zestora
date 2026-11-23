@@ -1,0 +1,33 @@
+sequenceDiagram
+  autonumber
+  actor U as User
+  participant GM as GatewayModal.jsx
+  participant PB as POST /payments/intents
+  participant GW as Mock gateway: POST /gateway/confirm
+  participant WH as deliver_webhook() in gateway.py
+  participant DB as SQLite
+  participant ML as mailer.py
+  participant OD as GET /orders/ID
+  GM->>PB: createIntent(orderId)
+  PB->>DB: INSERT payment_intent (amount from the order, client_secret)
+  PB-->>GM: intentId and clientSecret
+  U->>GM: card or UPI details
+  GM->>GW: intentId, clientSecret, details
+  GW->>GW: judge(): validate format, test cards decline
+  GW->>GW: build event and sign it with HMAC-SHA256
+  GW->>WH: raw body and X-Gateway-Signature header
+  WH->>WH: verify the signature (constant time)
+  WH->>DB: load intent and order
+  WH->>WH: amount equals order total? intent still open?
+  alt payment.succeeded
+    WH->>DB: order paid, paid_at set (shipping clock starts)
+    WH->>ML: confirmation email as a background task
+  else payment.failed
+    WH->>DB: order failed (customer can retry)
+  end
+  GW-->>GM: succeeded or failed plus a message (not proof)
+  loop up to 8 times
+    GM->>OD: is paymentStatus paid yet?
+  end
+  GM-->>U: success, open the order page
+  Note over GM,DB: A real gateway calls the webhook over HTTP from its own servers. Unpaid after 15 minutes: the order is cancelled and stock released.

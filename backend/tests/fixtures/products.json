@@ -1,0 +1,1834 @@
+[
+ {
+  "id": "p001",
+  "title": "Aero Pods Pro Wireless Earbuds",
+  "brand": "Sonic",
+  "category": "electronics",
+  "price": 5003,
+  "mrp": 6670,
+  "discount": 25,
+  "rating": 4.1,
+  "reviews": 3918,
+  "stock": 76,
+  "emoji": "🎧",
+  "hue": 244,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Aero Pods Pro Wireless Earbuds from Sonic blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 1
+ },
+ {
+  "id": "p002",
+  "title": "Nova X 5G Smartphone 128GB",
+  "brand": "Nova",
+  "category": "electronics",
+  "price": 24997,
+  "mrp": 35710,
+  "discount": 30,
+  "rating": 4.1,
+  "reviews": 3370,
+  "stock": 94,
+  "emoji": "📱",
+  "hue": 244,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Nova X 5G Smartphone 128GB from Nova blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 2
+ },
+ {
+  "id": "p003",
+  "title": "Pulse Series 5 Smartwatch",
+  "brand": "Pulse",
+  "category": "electronics",
+  "price": 7998,
+  "mrp": 13330,
+  "discount": 40,
+  "rating": 4.3,
+  "reviews": 2743,
+  "stock": 24,
+  "emoji": "⌚",
+  "hue": 273,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Pulse Series 5 Smartwatch from Pulse blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 3
+ },
+ {
+  "id": "p004",
+  "title": "Volt 20000mAh Fast Power Bank",
+  "brand": "Volt",
+  "category": "electronics",
+  "price": 1799,
+  "mrp": 1799,
+  "discount": 0,
+  "rating": 4.8,
+  "reviews": 4702,
+  "stock": 74,
+  "emoji": "🔋",
+  "hue": 272,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Volt 20000mAh Fast Power Bank from Volt blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 4
+ },
+ {
+  "id": "p005",
+  "title": "Lumen 4K Action Camera",
+  "brand": "Lumen",
+  "category": "electronics",
+  "price": 9000,
+  "mrp": 10000,
+  "discount": 10,
+  "rating": 4,
+  "reviews": 1048,
+  "stock": 90,
+  "emoji": "📷",
+  "hue": 248,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Lumen 4K Action Camera from Lumen blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 5
+ },
+ {
+  "id": "p006",
+  "title": "Echo Bar Bluetooth Speaker",
+  "brand": "Sonic",
+  "category": "electronics",
+  "price": 3501,
+  "mrp": 3890,
+  "discount": 10,
+  "rating": 4.7,
+  "reviews": 4144,
+  "stock": 54,
+  "emoji": "🔊",
+  "hue": 241,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Echo Bar Bluetooth Speaker from Sonic blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 6
+ },
+ {
+  "id": "p007",
+  "title": "Urban Drift Bomber Jacket",
+  "brand": "Driftwood",
+  "category": "fashion",
+  "price": 3300,
+  "mrp": 4400,
+  "discount": 25,
+  "rating": 4,
+  "reviews": 4233,
+  "stock": 3,
+  "emoji": "🧥",
+  "hue": 328,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Urban Drift Bomber Jacket from Driftwood blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 7
+ },
+ {
+  "id": "p008",
+  "title": "AirStride Running Sneakers",
+  "brand": "Stride",
+  "category": "fashion",
+  "price": 4600,
+  "mrp": 5750,
+  "discount": 20,
+  "rating": 3.9,
+  "reviews": 1417,
+  "stock": 42,
+  "emoji": "👟",
+  "hue": 349,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "AirStride Running Sneakers from Stride blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 8
+ },
+ {
+  "id": "p009",
+  "title": "Solstice Summer Midi Dress",
+  "brand": "Maison Lia",
+  "category": "fashion",
+  "price": 2198,
+  "mrp": 3140,
+  "discount": 30,
+  "rating": 4.6,
+  "reviews": 834,
+  "stock": 90,
+  "emoji": "👗",
+  "hue": 350,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Solstice Summer Midi Dress from Maison Lia blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 9
+ },
+ {
+  "id": "p010",
+  "title": "Atlas Leather Crossbody Bag",
+  "brand": "Atlas",
+  "category": "fashion",
+  "price": 2899,
+  "mrp": 3410,
+  "discount": 15,
+  "rating": 4.4,
+  "reviews": 4605,
+  "stock": 61,
+  "emoji": "👜",
+  "hue": 335,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Atlas Leather Crossbody Bag from Atlas blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 10
+ },
+ {
+  "id": "p011",
+  "title": "Halo Polarised Sunglasses",
+  "brand": "Halo",
+  "category": "fashion",
+  "price": 1602,
+  "mrp": 1780,
+  "discount": 10,
+  "rating": 4.1,
+  "reviews": 623,
+  "stock": 24,
+  "emoji": "🕶️",
+  "hue": 327,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Halo Polarised Sunglasses from Halo blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 11
+ },
+ {
+  "id": "p012",
+  "title": "Everyday Organic Cotton Tee",
+  "brand": "Driftwood",
+  "category": "fashion",
+  "price": 798,
+  "mrp": 1140,
+  "discount": 30,
+  "rating": 4.2,
+  "reviews": 535,
+  "stock": 52,
+  "emoji": "👕",
+  "hue": 351,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Everyday Organic Cotton Tee from Driftwood blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 12
+ },
+ {
+  "id": "p013",
+  "title": "Haven Linen Accent Chair",
+  "brand": "Haven",
+  "category": "home",
+  "price": 12998,
+  "mrp": 17330,
+  "discount": 25,
+  "rating": 4.2,
+  "reviews": 3464,
+  "stock": 85,
+  "emoji": "🪑",
+  "hue": 174,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Haven Linen Accent Chair from Haven blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 13
+ },
+ {
+  "id": "p014",
+  "title": "Glow Ceramic Table Lamp",
+  "brand": "Glow",
+  "category": "home",
+  "price": 1900,
+  "mrp": 2000,
+  "discount": 5,
+  "rating": 3.9,
+  "reviews": 589,
+  "stock": 3,
+  "emoji": "💡",
+  "hue": 182,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Glow Ceramic Table Lamp from Glow blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 14
+ },
+ {
+  "id": "p015",
+  "title": "Brewmaster Drip Coffee Maker",
+  "brand": "Brewmaster",
+  "category": "home",
+  "price": 5502,
+  "mrp": 9170,
+  "discount": 40,
+  "rating": 4,
+  "reviews": 3293,
+  "stock": 61,
+  "emoji": "☕",
+  "hue": 148,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Brewmaster Drip Coffee Maker from Brewmaster blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 15
+ },
+ {
+  "id": "p016",
+  "title": "Zen Scented Candle Trio",
+  "brand": "Zen",
+  "category": "home",
+  "price": 998,
+  "mrp": 1330,
+  "discount": 25,
+  "rating": 3.8,
+  "reviews": 983,
+  "stock": 15,
+  "emoji": "🕯️",
+  "hue": 170,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Zen Scented Candle Trio from Zen blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 16
+ },
+ {
+  "id": "p017",
+  "title": "Cloud Memory Foam Pillow",
+  "brand": "Cloud",
+  "category": "home",
+  "price": 1299,
+  "mrp": 1299,
+  "discount": 0,
+  "rating": 3.9,
+  "reviews": 3328,
+  "stock": 0,
+  "emoji": "🛏️",
+  "hue": 147,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Cloud Memory Foam Pillow from Cloud blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 17
+ },
+ {
+  "id": "p018",
+  "title": "Terra Ceramic Planter Set",
+  "brand": "Terra",
+  "category": "home",
+  "price": 1499,
+  "mrp": 1499,
+  "discount": 0,
+  "rating": 4.8,
+  "reviews": 3985,
+  "stock": 85,
+  "emoji": "🪴",
+  "hue": 166,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Terra Ceramic Planter Set from Terra blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 18
+ },
+ {
+  "id": "p019",
+  "title": "Velvet Matte Lipstick",
+  "brand": "Rouge Lab",
+  "category": "beauty",
+  "price": 702,
+  "mrp": 780,
+  "discount": 10,
+  "rating": 4.8,
+  "reviews": 128,
+  "stock": 43,
+  "emoji": "💄",
+  "hue": 16,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Velvet Matte Lipstick from Rouge Lab blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 19
+ },
+ {
+  "id": "p020",
+  "title": "Dew Drop Vitamin C Serum",
+  "brand": "Dermis",
+  "category": "beauty",
+  "price": 1200,
+  "mrp": 2000,
+  "discount": 40,
+  "rating": 4.8,
+  "reviews": 1280,
+  "stock": 95,
+  "emoji": "🧴",
+  "hue": 355,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Dew Drop Vitamin C Serum from Dermis blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 20
+ },
+ {
+  "id": "p021",
+  "title": "Bloom Eau de Parfum 50ml",
+  "brand": "Bloom",
+  "category": "beauty",
+  "price": 2502,
+  "mrp": 2780,
+  "discount": 10,
+  "rating": 4,
+  "reviews": 1151,
+  "stock": 3,
+  "emoji": "🌸",
+  "hue": 355,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Bloom Eau de Parfum 50ml from Bloom blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 21
+ },
+ {
+  "id": "p022",
+  "title": "Silk Glow Nail Care Kit",
+  "brand": "Rouge Lab",
+  "category": "beauty",
+  "price": 900,
+  "mrp": 1500,
+  "discount": 40,
+  "rating": 4.2,
+  "reviews": 1875,
+  "stock": 25,
+  "emoji": "💅",
+  "hue": 352,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Silk Glow Nail Care Kit from Rouge Lab blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 22
+ },
+ {
+  "id": "p023",
+  "title": "Pure Clay Face Mask",
+  "brand": "Dermis",
+  "category": "beauty",
+  "price": 553,
+  "mrp": 650,
+  "discount": 15,
+  "rating": 3.7,
+  "reviews": 347,
+  "stock": 83,
+  "emoji": "🧼",
+  "hue": 353,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Pure Clay Face Mask from Dermis blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 23
+ },
+ {
+  "id": "p024",
+  "title": "Luxe Rose Gold Hand Mirror",
+  "brand": "Bloom",
+  "category": "beauty",
+  "price": 750,
+  "mrp": 1000,
+  "discount": 25,
+  "rating": 4.7,
+  "reviews": 2931,
+  "stock": 44,
+  "emoji": "🪞",
+  "hue": 11,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Luxe Rose Gold Hand Mirror from Bloom blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 24
+ },
+ {
+  "id": "p025",
+  "title": "IronGrip Adjustable Dumbbells",
+  "brand": "IronGrip",
+  "category": "sports",
+  "price": 6496,
+  "mrp": 8120,
+  "discount": 20,
+  "rating": 4.4,
+  "reviews": 4316,
+  "stock": 71,
+  "emoji": "🏋️",
+  "hue": 132,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "IronGrip Adjustable Dumbbells from IronGrip blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 25
+ },
+ {
+  "id": "p026",
+  "title": "Flow Non-Slip Yoga Mat",
+  "brand": "Flow",
+  "category": "sports",
+  "price": 1298,
+  "mrp": 1730,
+  "discount": 25,
+  "rating": 4.6,
+  "reviews": 2916,
+  "stock": 76,
+  "emoji": "🧘",
+  "hue": 125,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Flow Non-Slip Yoga Mat from Flow blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 26
+ },
+ {
+  "id": "p027",
+  "title": "Rally Pro Cricket Bat",
+  "brand": "Rally",
+  "category": "sports",
+  "price": 3997,
+  "mrp": 5710,
+  "discount": 30,
+  "rating": 4,
+  "reviews": 597,
+  "stock": 12,
+  "emoji": "🏏",
+  "hue": 129,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Rally Pro Cricket Bat from Rally blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 27
+ },
+ {
+  "id": "p028",
+  "title": "Apex Trail Mountain Bike",
+  "brand": "Apex",
+  "category": "sports",
+  "price": 21999,
+  "mrp": 21999,
+  "discount": 0,
+  "rating": 4.4,
+  "reviews": 2961,
+  "stock": 3,
+  "emoji": "🚴",
+  "hue": 154,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Apex Trail Mountain Bike from Apex blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 28
+ },
+ {
+  "id": "p029",
+  "title": "Strike Match Football",
+  "brand": "Rally",
+  "category": "sports",
+  "price": 1197,
+  "mrp": 1710,
+  "discount": 30,
+  "rating": 4.4,
+  "reviews": 1960,
+  "stock": 25,
+  "emoji": "⚽",
+  "hue": 139,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Strike Match Football from Rally blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 29
+ },
+ {
+  "id": "p030",
+  "title": "Smash Carbon Badminton Racket",
+  "brand": "Smash",
+  "category": "sports",
+  "price": 2800,
+  "mrp": 3500,
+  "discount": 20,
+  "rating": 4.3,
+  "reviews": 1740,
+  "stock": 27,
+  "emoji": "🏸",
+  "hue": 131,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Smash Carbon Badminton Racket from Smash blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 30
+ },
+ {
+  "id": "p031",
+  "title": "The Quiet Founder – Bestseller",
+  "brand": "Pagewise",
+  "category": "books",
+  "price": 450,
+  "mrp": 500,
+  "discount": 10,
+  "rating": 4.3,
+  "reviews": 3129,
+  "stock": 49,
+  "emoji": "📚",
+  "hue": 56,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "The Quiet Founder – Bestseller from Pagewise blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 31
+ },
+ {
+  "id": "p032",
+  "title": "Dotted Leather Journal",
+  "brand": "Inkwell",
+  "category": "books",
+  "price": 698,
+  "mrp": 930,
+  "discount": 25,
+  "rating": 4.8,
+  "reviews": 426,
+  "stock": 91,
+  "emoji": "📓",
+  "hue": 51,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Dotted Leather Journal from Inkwell blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 32
+ },
+ {
+  "id": "p033",
+  "title": "Aurum Fountain Pen",
+  "brand": "Inkwell",
+  "category": "books",
+  "price": 1897,
+  "mrp": 2710,
+  "discount": 30,
+  "rating": 4.1,
+  "reviews": 848,
+  "stock": 73,
+  "emoji": "🖋️",
+  "hue": 50,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Aurum Fountain Pen from Inkwell blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 33
+ },
+ {
+  "id": "p034",
+  "title": "Nomad Water-Resistant Backpack",
+  "brand": "Nomad",
+  "category": "books",
+  "price": 2400,
+  "mrp": 4000,
+  "discount": 40,
+  "rating": 4.6,
+  "reviews": 1881,
+  "stock": 0,
+  "emoji": "🎒",
+  "hue": 30,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Nomad Water-Resistant Backpack from Nomad blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 34
+ },
+ {
+  "id": "p035",
+  "title": "Sketchmaster Pencil Set (48)",
+  "brand": "Inkwell",
+  "category": "books",
+  "price": 901,
+  "mrp": 1060,
+  "discount": 15,
+  "rating": 3.9,
+  "reviews": 4413,
+  "stock": 3,
+  "emoji": "✏️",
+  "hue": 48,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Sketchmaster Pencil Set (48) from Inkwell blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 35
+ },
+ {
+  "id": "p036",
+  "title": "Desk Planner 2027",
+  "brand": "Pagewise",
+  "category": "books",
+  "price": 400,
+  "mrp": 470,
+  "discount": 15,
+  "rating": 3.8,
+  "reviews": 1127,
+  "stock": 38,
+  "emoji": "🗓️",
+  "hue": 37,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Desk Planner 2027 from Pagewise blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 36
+ },
+ {
+  "id": "p037",
+  "title": "Cuddle Bear Plush 60cm",
+  "brand": "Snuggle",
+  "category": "toys",
+  "price": 1098,
+  "mrp": 1220,
+  "discount": 10,
+  "rating": 3.8,
+  "reviews": 2513,
+  "stock": 44,
+  "emoji": "🧸",
+  "hue": 208,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Cuddle Bear Plush 60cm from Snuggle blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 37
+ },
+ {
+  "id": "p038",
+  "title": "Brainwave 500pc Puzzle",
+  "brand": "Playwise",
+  "category": "toys",
+  "price": 648,
+  "mrp": 720,
+  "discount": 10,
+  "rating": 4.3,
+  "reviews": 4547,
+  "stock": 24,
+  "emoji": "🧩",
+  "hue": 192,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Brainwave 500pc Puzzle from Playwise blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 38
+ },
+ {
+  "id": "p039",
+  "title": "Choo-Choo Wooden Train Set",
+  "brand": "Playwise",
+  "category": "toys",
+  "price": 1800,
+  "mrp": 2250,
+  "discount": 20,
+  "rating": 3.6,
+  "reviews": 1977,
+  "stock": 19,
+  "emoji": "🚂",
+  "hue": 192,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Choo-Choo Wooden Train Set from Playwise blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 39
+ },
+ {
+  "id": "p040",
+  "title": "Little Picasso Art Kit",
+  "brand": "Snuggle",
+  "category": "toys",
+  "price": 1002,
+  "mrp": 1670,
+  "discount": 40,
+  "rating": 4.6,
+  "reviews": 4209,
+  "stock": 32,
+  "emoji": "🎨",
+  "hue": 189,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Little Picasso Art Kit from Snuggle blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 40
+ },
+ {
+  "id": "p041",
+  "title": "Skyrider Stunt Kite",
+  "brand": "Skyrider",
+  "category": "toys",
+  "price": 552,
+  "mrp": 920,
+  "discount": 40,
+  "rating": 4.7,
+  "reviews": 1310,
+  "stock": 46,
+  "emoji": "🪁",
+  "hue": 200,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "Skyrider Stunt Kite from Skyrider blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 41
+ },
+ {
+  "id": "p042",
+  "title": "RoboBuddy STEM Robot Kit",
+  "brand": "Playwise",
+  "category": "toys",
+  "price": 3498,
+  "mrp": 5830,
+  "discount": 40,
+  "rating": 3.8,
+  "reviews": 1045,
+  "stock": 3,
+  "emoji": "🤖",
+  "hue": 216,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   },
+   {
+    "name": "Sage",
+    "hex": "#8fb996"
+   }
+  ],
+  "description": "RoboBuddy STEM Robot Kit from Playwise blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 42
+ },
+ {
+  "id": "p043",
+  "title": "Belgian Dark Chocolate Box",
+  "brand": "Cocoa & Co",
+  "category": "gourmet",
+  "price": 896,
+  "mrp": 1280,
+  "discount": 30,
+  "rating": 4.5,
+  "reviews": 4742,
+  "stock": 52,
+  "emoji": "🍫",
+  "hue": 104,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Belgian Dark Chocolate Box from Cocoa & Co blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 43
+ },
+ {
+  "id": "p044",
+  "title": "Raw Forest Honey 500g",
+  "brand": "Wildhive",
+  "category": "gourmet",
+  "price": 451,
+  "mrp": 530,
+  "discount": 15,
+  "rating": 4.6,
+  "reviews": 305,
+  "stock": 12,
+  "emoji": "🍯",
+  "hue": 112,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   },
+   {
+    "name": "Ocean",
+    "hex": "#3b82f6"
+   }
+  ],
+  "description": "Raw Forest Honey 500g from Wildhive blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 44
+ },
+ {
+  "id": "p045",
+  "title": "Roasted Almond & Cashew Mix",
+  "brand": "Nutbar",
+  "category": "gourmet",
+  "price": 599,
+  "mrp": 599,
+  "discount": 0,
+  "rating": 4.2,
+  "reviews": 3272,
+  "stock": 69,
+  "emoji": "🥜",
+  "hue": 95,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Roasted Almond & Cashew Mix from Nutbar blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 45
+ },
+ {
+  "id": "p046",
+  "title": "Himalayan Green Tea (50 bags)",
+  "brand": "Steeped",
+  "category": "gourmet",
+  "price": 504,
+  "mrp": 530,
+  "discount": 5,
+  "rating": 4.2,
+  "reviews": 3634,
+  "stock": 51,
+  "emoji": "🍵",
+  "hue": 79,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Himalayan Green Tea (50 bags) from Steeped blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 46
+ },
+ {
+  "id": "p047",
+  "title": "Cold-Pressed Olive Oil 1L",
+  "brand": "Olivia",
+  "category": "gourmet",
+  "price": 1102,
+  "mrp": 1160,
+  "discount": 5,
+  "rating": 4.3,
+  "reviews": 1620,
+  "stock": 67,
+  "emoji": "🫒",
+  "hue": 83,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   }
+  ],
+  "description": "Cold-Pressed Olive Oil 1L from Olivia blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 47
+ },
+ {
+  "id": "p048",
+  "title": "Fiery Chilli Crisp Sauce",
+  "brand": "Wildhive",
+  "category": "gourmet",
+  "price": 348,
+  "mrp": 580,
+  "discount": 40,
+  "rating": 4.6,
+  "reviews": 2742,
+  "stock": 64,
+  "emoji": "🌶️",
+  "hue": 78,
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "#1c1b33"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#f1ead8"
+   },
+   {
+    "name": "Coral",
+    "hex": "#ff6b81"
+   }
+  ],
+  "description": "Fiery Chilli Crisp Sauce from Wildhive blends thoughtful design with dependable performance. Crafted with care and rigorously quality-checked, it is made to look great and last long — a smart pick for yourself or as a gift.",
+  "highlights": [
+   "Premium build quality tested for everyday use",
+   "Free delivery on orders above ₹499",
+   "7-day easy replacement, no questions asked",
+   "1-year brand warranty included"
+  ],
+  "addedOrder": 48
+ }
+]

@@ -1,0 +1,18 @@
+sequenceDiagram
+  participant UV as uvicorn
+  participant L as lifespan in main.py
+  participant M as migrate.py
+  participant AL as Alembic
+  participant DB as SQLite
+  participant S as seed.py
+  UV->>L: app starts
+  L->>M: run_migrations()
+  M->>DB: tables exist but no alembic_version?
+  alt old database created before Alembic
+    M->>AL: stamp 0001 (mark baseline as done)
+  end
+  M->>AL: upgrade head
+  AL->>DB: apply any missing migration (0001, 0002)
+  L->>S: seed_products, migrate_legacy_addresses, seed_coupons
+  S->>DB: insert only if the table is empty
+  L-->>UV: ready to serve /api

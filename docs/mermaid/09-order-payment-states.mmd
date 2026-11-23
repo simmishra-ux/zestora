@@ -1,0 +1,14 @@
+stateDiagram-v2
+  [*] --> pending: online order created
+  [*] --> cod: cash on delivery order
+  pending --> paid: webhook says succeeded
+  pending --> failed: webhook says failed
+  failed --> pending: customer retries
+  pending --> expired: unpaid for 15 minutes
+  failed --> expired: unpaid for 15 minutes
+  pending --> void: customer cancels
+  failed --> void: customer cancels
+  paid --> refunded: order cancelled
+  expired --> [*]
+  void --> [*]
+  refunded --> [*]

@@ -1,0 +1,12 @@
+stateDiagram-v2
+  [*] --> placed
+  placed --> packed: after 30s, or admin
+  packed --> shipped: after 90s, or admin
+  shipped --> out_for_delivery: after 180s, or admin
+  out_for_delivery --> delivered: after 300s, or admin
+  placed --> cancelled: customer or admin cancels
+  packed --> cancelled: customer or admin cancels
+  delivered --> deleted: customer deletes
+  cancelled --> deleted: customer deletes
+  deleted --> [*]
+  note right of shipped: cancelling is no longer allowed

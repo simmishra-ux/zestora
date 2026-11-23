@@ -1,0 +1,38 @@
+title Order lifecycle
+
+Order created [shape: oval, icon: shopping-cart]
+Payment method [shape: diamond]
+Cash on delivery [icon: dollar-sign]
+Online payment pending [icon: clock]
+Webhook result [shape: diamond]
+Paid [icon: check-circle, color: green]
+Payment failed [icon: x-circle, color: red]
+Expired after 15 minutes [icon: timer, color: red]
+Placed [icon: package]
+Packed [icon: box]
+Shipped [icon: truck]
+Out for delivery [icon: map-pin]
+Delivered [icon: check, color: green]
+Cancelled [shape: oval, icon: x, color: red]
+Deleted [shape: oval, icon: trash]
+
+Order created > Payment method
+Payment method > Cash on delivery: COD
+Payment method > Online payment pending: UPI or card
+Cash on delivery > Placed
+Online payment pending > Webhook result
+Webhook result > Paid: succeeded
+Webhook result > Payment failed: failed
+Payment failed > Online payment pending: customer retries
+Online payment pending > Expired after 15 minutes: unpaid
+Payment failed > Expired after 15 minutes: unpaid
+Expired after 15 minutes > Cancelled: stock released
+Paid > Placed
+Placed > Packed: after 30s or admin
+Packed > Shipped: after 90s or admin
+Shipped > Out for delivery: after 180s or admin
+Out for delivery > Delivered: after 300s or admin
+Placed > Cancelled: customer or admin
+Packed > Cancelled: customer or admin
+Delivered > Deleted: customer deletes
+Cancelled > Deleted: customer deletes

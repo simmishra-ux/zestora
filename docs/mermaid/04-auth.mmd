@@ -1,0 +1,26 @@
+sequenceDiagram
+  autonumber
+  actor U as User
+  participant UI as Signup page
+  participant AC as AuthContext
+  participant API as api.js
+  participant BE as routers/auth.py
+  participant DB as SQLite
+  U->>UI: fill the form and submit
+  UI->>UI: validate with validators.js
+  UI->>AC: signup(name, email, password)
+  AC->>API: POST /auth/signup
+  API->>BE: JSON body
+  BE->>BE: Pydantic checks the shape (SignupIn)
+  BE->>DB: is the email already used?
+  BE->>BE: bcrypt hashes the password
+  BE->>DB: INSERT user
+  BE->>BE: sign a JWT (sub = user id, valid 7 days)
+  BE-->>API: token and user
+  API->>API: store token in localStorage
+  AC->>AC: setUser(user)
+  Note over U,DB: Later, on every page load or API call
+  AC->>API: GET /auth/me with header Authorization Bearer token
+  BE->>BE: get_current_user decodes and verifies the JWT
+  BE->>DB: load the user
+  BE-->>AC: user, or 401 and the token is discarded

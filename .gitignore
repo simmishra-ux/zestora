@@ -1,0 +1,53 @@
+# --- dependencies & build output ---
+node_modules/
+dist/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# --- local-only files (never commit) ---
+# secrets: SMTP password, JWT secret, admin emails
+backend/.env
+# the SQLite dev database
+backend/zestora.db
+# emails saved by the dev inbox
+backend/outbox/
+# database backups
+backend/*.bak*
+*.local
+
+# --- end-to-end test output ---
+e2e/.tmp/
+e2e/test-results/
+e2e/report/
+
+# --- tool caches & logs ---
+.pytest_cache/
+.ruff_cache/
+*.log
+
+# --- editor / OS ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+backend/venv/
+
+# Python cache
+*.pyo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# macOS
+.AppleDouble

@@ -1,0 +1,36 @@
+flowchart TB
+  subgraph BR["Browser: React app (frontend/src)"]
+    direction TB
+    P["pages/ and components/"]
+    C["context/: Auth, Cart, Wishlist, Toast"]
+    H["hooks/: useAsync, useDebounce"]
+    S["services/: api.js and one file per feature"]
+    LS[("localStorage: token, cart, wishlist")]
+    P --> C
+    P --> H
+    H --> S
+    C --> S
+    C -.-> LS
+  end
+  V["Vite dev server :4200<br/>forwards /api to :8000"]
+  subgraph API["FastAPI backend :8000 (backend/app)"]
+    direction TB
+    R["routers/: auth, products, reviews, coupons,<br/>orders, payments, admin"]
+    SEC["security.py: bcrypt and JWT"]
+    RULES["rules: coupons, order_ops, pricing,<br/>status, gateway"]
+    M["models.py: SQLAlchemy tables"]
+    ML["mailer.py"]
+    R --> SEC
+    R --> RULES
+    RULES --> M
+    R --> M
+    R --> ML
+  end
+  DB[("SQLite zestora.db<br/>schema managed by Alembic")]
+  OB["backend/outbox/*.eml<br/>(dev inbox)"]
+  GM["Gmail SMTP<br/>(needs an App Password)"]
+  S -->|"fetch /api/..."| V
+  V -->|"proxy"| R
+  M --> DB
+  ML -->|"no SMTP password"| OB
+  ML -->|"SMTP configured"| GM

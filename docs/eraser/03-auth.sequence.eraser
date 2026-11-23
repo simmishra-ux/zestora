@@ -1,0 +1,29 @@
+title Signup and session restore
+
+User [icon: user]
+Signup page [icon: layout]
+AuthContext [icon: layers]
+api js [icon: send]
+FastAPI auth [icon: server]
+SQLite [icon: database]
+
+User > Signup page: fill the form and submit
+Signup page > Signup page: validate with validators js
+Signup page > AuthContext: signup name email password
+AuthContext > api js: POST /auth/signup
+api js > FastAPI auth: JSON body
+FastAPI auth > FastAPI auth: Pydantic checks the shape
+FastAPI auth > SQLite: is the email already used
+FastAPI auth > FastAPI auth: bcrypt hashes the password
+FastAPI auth > SQLite: INSERT user
+FastAPI auth > FastAPI auth: sign a JWT valid 7 days
+FastAPI auth --> api js: token and user
+api js > api js: store token in localStorage
+AuthContext > AuthContext: setUser
+
+// later, on every page load
+AuthContext > api js: GET /auth/me with Bearer token
+api js > FastAPI auth: Authorization header
+FastAPI auth > FastAPI auth: decode and verify the JWT
+FastAPI auth > SQLite: load the user
+FastAPI auth --> AuthContext: user or 401
